@@ -3,7 +3,6 @@
     <fullName>copado__Url__c</fullName>
     <deprecated>false</deprecated>
     <description>Pull Request Url</description>
-    <externalId>false</externalId>
     <label>Url</label>
     <required>false</required>
     <trackTrending>false</trackTrending>

@@ -3,7 +3,6 @@
     <fullName>copado__ErrorMessage__c</fullName>
     <deprecated>false</deprecated>
     <description>Description of the error if the job has failed.</description>
-    <externalId>false</externalId>
     <label>Error Message</label>
     <length>32768</length>
     <trackTrending>false</trackTrending>

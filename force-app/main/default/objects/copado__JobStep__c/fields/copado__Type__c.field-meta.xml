@@ -3,7 +3,6 @@
     <fullName>copado__Type__c</fullName>
     <deprecated>false</deprecated>
     <description>Type of the Job Step.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Defines the behaviour this step will have when executed.</inlineHelpText>
     <label>Behaviour</label>
     <required>true</required>

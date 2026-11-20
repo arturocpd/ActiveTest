@@ -4,7 +4,6 @@
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
     <description>If checked, Deployment Flow Steps best practices validations will be disabled.</description>
-    <externalId>false</externalId>
     <inlineHelpText>If checked, Deployment Flow Steps best practices validations will be disabled.</inlineHelpText>
     <label>Disable Validations</label>
     <trackHistory>false</trackHistory>

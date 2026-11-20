@@ -3,7 +3,6 @@
     <fullName>copado__Continuous_Delivery_Enabled__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Continuous Delivery Enabled</label>
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>

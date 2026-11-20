@@ -3,7 +3,6 @@
     <fullName>copado__Selenium_Settings__c</fullName>
     <deleteConstraint>Restrict</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Copado will run the Test Suites for each of the selected Platforms in these Settings.</inlineHelpText>
     <label>Selenium Settings</label>
     <referenceTo>copado__Selenium_Settings__c</referenceTo>

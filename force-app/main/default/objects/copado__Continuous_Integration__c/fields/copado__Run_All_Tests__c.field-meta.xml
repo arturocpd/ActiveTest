@@ -3,7 +3,6 @@
     <fullName>copado__Run_All_Tests__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>If this checkbox is checked, all apex tests will be run as part of the build.</inlineHelpText>
     <label>Run All Tests</label>
     <trackTrending>false</trackTrending>

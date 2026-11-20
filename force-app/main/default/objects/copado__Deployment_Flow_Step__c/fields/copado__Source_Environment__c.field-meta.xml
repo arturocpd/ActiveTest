@@ -3,7 +3,6 @@
     <fullName>copado__Source_Environment__c</fullName>
     <deleteConstraint>Restrict</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Source Environment</label>
     <referenceTo>copado__Environment__c</referenceTo>
     <relationshipName>Deployment_Flow_Steps</relationshipName>

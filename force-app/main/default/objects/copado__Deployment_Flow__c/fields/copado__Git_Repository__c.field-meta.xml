@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>Git Repository linked to the Deployment Flow. All branches of the Deployment Flow Steps must exist in this Git Repository.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Git Repository linked to the Deployment Flow. All branches of the Deployment Flow Steps must exist in this Git Repository.</inlineHelpText>
     <label>Git Repository</label>
     <referenceTo>copado__Git_Repository__c</referenceTo>

@@ -3,7 +3,6 @@
     <fullName>copado__Minor__c</fullName>
     <deprecated>false</deprecated>
     <description>Number of Minor violations</description>
-    <externalId>false</externalId>
     <label>Minor</label>
     <summaryFilterItems>
         <field>copado__Static_Code_Analysis_Violation__c.copado__Severity__c</field>

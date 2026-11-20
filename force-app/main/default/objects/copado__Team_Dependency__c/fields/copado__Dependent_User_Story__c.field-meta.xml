@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>The User Story that is dependent on the completion of the parent user story.</description>
-    <externalId>false</externalId>
     <inlineHelpText>The User Story that is dependent on the completion of the parent user story.</inlineHelpText>
     <label>Child User Story</label>
     <referenceTo>copado__User_Story__c</referenceTo>

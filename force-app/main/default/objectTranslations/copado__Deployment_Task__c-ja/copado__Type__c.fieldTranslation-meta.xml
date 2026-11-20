@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label></label>
+    <label><!-- Type --></label>
     <name>copado__Type__c</name>
     <picklistValues>
         <masterLabel>Apex</masterLabel>
-        <translation></translation>
+        <translation><!-- Apex --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Bulk Data</masterLabel>
         <translation>バルクデータ</translation>
-    </picklistValues>
-    <picklistValues>
-        <masterLabel>CRT Automation</masterLabel>
-        <translation></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Custom Settings</masterLabel>
@@ -32,7 +28,7 @@
     </picklistValues>
     <picklistValues>
         <masterLabel>Function</masterLabel>
-        <translation>関数</translation>
+        <translation><!-- Function --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Manual Task</masterLabel>

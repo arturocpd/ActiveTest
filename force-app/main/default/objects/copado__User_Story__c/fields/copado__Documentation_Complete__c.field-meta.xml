@@ -3,7 +3,6 @@
     <fullName>copado__Documentation_Complete__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Documentation Complete</label>
     <trackHistory>true</trackHistory>
     <trackTrending>false</trackTrending>

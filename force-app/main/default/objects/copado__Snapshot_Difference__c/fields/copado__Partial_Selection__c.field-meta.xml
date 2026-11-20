@@ -3,7 +3,6 @@
     <fullName>copado__Partial_Selection__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>To calculate the differences only of selected files, select this checkbox.</inlineHelpText>
     <label>Partial Selection</label>
     <trackTrending>false</trackTrending>

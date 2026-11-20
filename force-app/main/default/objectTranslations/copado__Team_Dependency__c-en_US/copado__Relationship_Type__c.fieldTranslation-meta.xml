@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help></help>
-    <label></label>
+    <help><!-- Enter the value for the Parent-Child relationship type for your User Stories. By default, the field value is set to &quot;Relates-to.&quot; You can add other values, as this is an unrestricted list. --></help>
+    <label><!-- Relationship Type --></label>
     <name>copado__Relationship_Type__c</name>
     <picklistValues>
         <masterLabel>blocking</masterLabel>
-        <translation></translation>
+        <translation><!-- blocking --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>duplicating</masterLabel>
-        <translation></translation>
+        <translation><!-- duplicating --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>fixing</masterLabel>
-        <translation></translation>
+        <translation><!-- fixing --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>relates to</masterLabel>
-        <translation></translation>
+        <translation><!-- relates to --></translation>
     </picklistValues>
 </CustomFieldTranslation>

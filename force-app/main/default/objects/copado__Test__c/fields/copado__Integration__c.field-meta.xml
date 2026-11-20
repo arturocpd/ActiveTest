@@ -3,7 +3,6 @@
     <fullName>copado__Integration__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Deprecated</inlineHelpText>
     <label>Tool - Deprecated</label>
     <lookupFilter>

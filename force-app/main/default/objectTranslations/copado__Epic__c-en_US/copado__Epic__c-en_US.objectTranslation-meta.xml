@@ -3,15 +3,15 @@
     <layouts>
         <layout>Epic Layout</layout>
         <sections>
-            <label></label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Description --></label>
             <section>Description</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Owners --></label>
             <section>Owners</section>
         </sections>
     </layouts>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label></label>
+    <label><!-- Platform --></label>
     <name>copado__Platform__c</name>
     <picklistValues>
         <masterLabel>Mulesoft</masterLabel>
-        <translation></translation>
+        <translation><!-- Mulesoft --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Other</masterLabel>
-        <translation></translation>
+        <translation><!-- Other --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>SFDX</masterLabel>
-        <translation></translation>
+        <translation><!-- SFDX --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Salesforce</masterLabel>
-        <translation></translation>
+        <translation><!-- Salesforce --></translation>
     </picklistValues>
 </CustomFieldTranslation>

@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>Used in the automation template creator. DO NOT DELETE or ADD on the layouts.</description>
-    <externalId>false</externalId>
     <label>Promotion</label>
     <referenceTo>copado__Promotion__c</referenceTo>
     <relationshipLabel>Steps</relationshipLabel>

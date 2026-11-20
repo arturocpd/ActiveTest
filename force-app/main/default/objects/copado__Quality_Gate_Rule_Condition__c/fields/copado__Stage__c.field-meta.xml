@@ -3,7 +3,6 @@
     <fullName>copado__Stage__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Stage where this Quality Gate Condition will be evaluated. If no Pipeline is defined, this Condition will apply to all Pipelines where this Stage is connected to.</inlineHelpText>
     <label>Stage</label>
     <referenceTo>copado__Stage__c</referenceTo>

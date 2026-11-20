@@ -3,7 +3,6 @@
     <fullName>copado__Send_Deployment_Complete_email__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Select this checkbox if you want the promotion owner to receive an email notification when the promotion is complete.</inlineHelpText>
     <label>Notify When Complete</label>
     <trackTrending>false</trackTrending>

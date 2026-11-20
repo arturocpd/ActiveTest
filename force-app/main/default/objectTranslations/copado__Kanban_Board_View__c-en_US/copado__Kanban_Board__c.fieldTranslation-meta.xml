@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label></label>
+    <label><!-- Kanban Board --></label>
     <name>copado__Kanban_Board__c</name>
-    <relationshipLabel></relationshipLabel>
+    <relationshipLabel><!-- Kanban Board Views --></relationshipLabel>
 </CustomFieldTranslation>

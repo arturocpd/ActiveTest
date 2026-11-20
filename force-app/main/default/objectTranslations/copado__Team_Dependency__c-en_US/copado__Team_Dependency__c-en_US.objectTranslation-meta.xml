@@ -3,26 +3,26 @@
     <layouts>
         <layout>Team Dependency Layout</layout>
         <sections>
-            <label></label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
     </layouts>
     <layouts>
         <layout>User Story Dependency Layout</layout>
         <sections>
-            <label></label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Deliverable --></label>
             <section>Deliverable</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Notes --></label>
             <section>Notes</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Team Dependency (Optional) --></label>
             <section>Team Dependency (Optional)</section>
         </sections>
     </layouts>

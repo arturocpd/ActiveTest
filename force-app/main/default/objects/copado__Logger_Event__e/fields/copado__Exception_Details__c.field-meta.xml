@@ -3,7 +3,6 @@
     <fullName>copado__Exception_Details__c</fullName>
     <deprecated>false</deprecated>
     <description>Exception Details if any</description>
-    <externalId>false</externalId>
     <isFilteringDisabled>false</isFilteringDisabled>
     <isNameField>false</isNameField>
     <isSortingDisabled>false</isSortingDisabled>

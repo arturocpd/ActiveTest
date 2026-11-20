@@ -3,7 +3,6 @@
     <fullName>copado__Selenium_Test_Group__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>This field should not be populated.  The value is automatically maintained.</inlineHelpText>
     <label>Selenium Test Group</label>
     <lookupFilter>

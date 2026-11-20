@@ -3,7 +3,6 @@
     <fullName>copado__Score_v11__c</fullName>
     <deprecated>false</deprecated>
     <description>New v11 version of the Score field.</description>
-    <externalId>false</externalId>
     <label>Score</label>
     <summarizedField>copado__Static_Code_Analysis_Violation__c.copado__Score__c</summarizedField>
     <summaryFilterItems>

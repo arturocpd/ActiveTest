@@ -3,7 +3,6 @@
     <fullName>copado__Highest_Severity__c</fullName>
     <deprecated>false</deprecated>
     <description>Highest Severity of the Compliance Findings.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Highest Severity of the Compliance Findings.</inlineHelpText>
     <label>Highest Severity</label>
     <required>false</required>

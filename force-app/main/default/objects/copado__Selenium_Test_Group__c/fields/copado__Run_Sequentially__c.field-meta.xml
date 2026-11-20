@@ -3,7 +3,6 @@
     <fullName>copado__Run_Sequentially__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>If checked, tests runs will be executed in sequence, one after another, instead of doing it in parallel</inlineHelpText>
     <label>Run Sequentially</label>
     <trackTrending>false</trackTrending>

@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>Static Code Analysis settings used whenever the analysis is run in Environments or User Stories linked to the Deployment Flow.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Static Code Analysis settings used whenever the analysis is run in Environments or User Stories linked to the Deployment Flow.</inlineHelpText>
     <label>Static Code Analysis Settings</label>
     <referenceTo>copado__Static_Code_Analysis_Settings__c</referenceTo>

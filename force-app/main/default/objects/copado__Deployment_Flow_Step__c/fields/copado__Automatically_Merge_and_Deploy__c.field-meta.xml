@@ -3,7 +3,6 @@
     <fullName>copado__Automatically_Merge_and_Deploy__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Automatically Merge and Deploy</label>
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>

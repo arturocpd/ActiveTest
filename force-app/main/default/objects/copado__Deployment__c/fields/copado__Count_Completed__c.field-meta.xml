@@ -2,7 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>copado__Count_Completed__c</fullName>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label># Completed</label>
     <summarizedField>copado__Step__c.copado__Count_Completed__c</summarizedField>
     <summaryForeignKey>copado__Step__c.copado__Deployment__c</summaryForeignKey>

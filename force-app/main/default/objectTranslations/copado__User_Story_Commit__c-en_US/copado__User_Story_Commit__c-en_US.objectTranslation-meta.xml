@@ -3,11 +3,11 @@
     <layouts>
         <layout>User Story Commit Layout</layout>
         <sections>
-            <label></label>
+            <label><!-- Commit Information --></label>
             <section>Commit Information</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
     </layouts>

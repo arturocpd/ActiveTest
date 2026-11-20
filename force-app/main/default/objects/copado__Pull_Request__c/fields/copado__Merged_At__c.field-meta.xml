@@ -3,7 +3,6 @@
     <fullName>copado__Merged_At__c</fullName>
     <deprecated>false</deprecated>
     <description>The date when the pull request was merged or empty if it is not merged</description>
-    <externalId>false</externalId>
     <label>Merged At</label>
     <required>false</required>
     <trackTrending>false</trackTrending>

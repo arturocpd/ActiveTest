@@ -3,7 +3,6 @@
     <fullName>copado__Resource_Observations__c</fullName>
     <deprecated>false</deprecated>
     <description>Register what resources are available after the step completes successfully. You can apply quality gates to these resources locally within the Function context.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Register what resources are available after the step completes successfully. You can apply quality gates to these resources locally within the Function context.</inlineHelpText>
     <label>Resource Observations</label>
     <required>false</required>

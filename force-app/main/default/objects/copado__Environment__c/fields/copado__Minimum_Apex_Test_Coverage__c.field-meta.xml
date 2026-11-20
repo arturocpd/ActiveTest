@@ -3,7 +3,6 @@
     <fullName>copado__Minimum_Apex_Test_Coverage__c</fullName>
     <defaultValue>0.75</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Set the Minimum Apex Test Coverage here which will be used for Apex Test Results on the Org Credential detail page.</inlineHelpText>
     <label>Minimum Apex Test Coverage</label>
     <precision>3</precision>

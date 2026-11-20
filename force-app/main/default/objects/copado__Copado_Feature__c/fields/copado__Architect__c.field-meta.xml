@@ -4,7 +4,6 @@
     <businessStatus>Hidden</businessStatus>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Architect</label>
     <referenceTo>User</referenceTo>
     <relationshipName>Features1</relationshipName>

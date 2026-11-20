@@ -2,7 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>copado__Wont_fix__c</fullName>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Won&apos;t fix</label>
     <summaryFilterItems>
         <field>copado__Static_Code_Analysis_Violation__c.copado__Resolution__c</field>

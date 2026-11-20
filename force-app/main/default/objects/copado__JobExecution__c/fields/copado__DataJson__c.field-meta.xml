@@ -3,7 +3,6 @@
     <fullName>copado__DataJson__c</fullName>
     <deprecated>false</deprecated>
     <description>This field contains the test level for the Delete Metadata step.</description>
-    <externalId>false</externalId>
     <label>DataJson</label>
     <length>131072</length>
     <trackTrending>false</trackTrending>

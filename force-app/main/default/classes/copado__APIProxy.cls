@@ -12,7 +12,4 @@ global class APIProxy {
     global static System.HttpResponse callAI(String payload) {
         return null;
     }
-    global static System.HttpResponse getAISession(String payload) {
-        return null;
-    }
 }

@@ -4,7 +4,6 @@
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
     <description>Disables Auto-Resolve from Online Conflict Resolution</description>
-    <externalId>false</externalId>
     <inlineHelpText>Disables Auto-Resolve from Online Conflict Resolution</inlineHelpText>
     <label>Disable Auto-Resolve</label>
     <trackTrending>false</trackTrending>

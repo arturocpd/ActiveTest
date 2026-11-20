@@ -2,7 +2,7 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Automation --></value>
     </caseValues>
     <layouts>
         <layout>Quality Gate Layout</layout>
@@ -19,7 +19,7 @@
             <section>Compliance Rule Settings</section>
         </sections>
         <sections>
-            <label>カスタムリンク</label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
         <sections>
@@ -35,5 +35,5 @@
             <section>Static Code Analysis Settings</section>
         </sections>
     </layouts>
-    <nameFieldLabel></nameFieldLabel>
+    <nameFieldLabel><!-- Automation Name --></nameFieldLabel>
 </CustomObjectTranslation>

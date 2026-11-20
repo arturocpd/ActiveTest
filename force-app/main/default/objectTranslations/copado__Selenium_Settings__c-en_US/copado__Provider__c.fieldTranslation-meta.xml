@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label></label>
+    <label><!-- Provider --></label>
     <name>copado__Provider__c</name>
     <picklistValues>
         <masterLabel>Browser Stack</masterLabel>
-        <translation></translation>
+        <translation><!-- Browser Stack --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Custom/Other</masterLabel>
-        <translation></translation>
+        <translation><!-- Custom/Other --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Sauce Labs</masterLabel>
-        <translation></translation>
+        <translation><!-- Sauce Labs --></translation>
     </picklistValues>
 </CustomFieldTranslation>

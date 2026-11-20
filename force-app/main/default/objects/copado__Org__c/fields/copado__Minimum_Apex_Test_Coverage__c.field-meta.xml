@@ -3,7 +3,6 @@
     <fullName>copado__Minimum_Apex_Test_Coverage__c</fullName>
     <deprecated>false</deprecated>
     <description>Minimum code coverage required for deploying changes from this Environment.</description>
-    <externalId>false</externalId>
     <formula>copado__Environment__r.copado__Minimum_Apex_Test_Coverage__c</formula>
     <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
     <inlineHelpText>Minimum code coverage required for deploying changes from this Environment.</inlineHelpText>

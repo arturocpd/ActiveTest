@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <help>ユーザーストーリーのデプロイメントに適用するテストレベル。</help>
-    <label></label>
+    <label><!-- Promotion Test Level --></label>
     <name>copado__Promotion_Test_Level__c</name>
     <picklistValues>
         <masterLabel>NoTestRun</masterLabel>
@@ -9,14 +9,14 @@
     </picklistValues>
     <picklistValues>
         <masterLabel>RunAllTestsInOrg</masterLabel>
-        <translation>組織内で全てのテストを実行</translation>
+        <translation><!-- RunAllTestsInOrg --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>RunLocalTests</masterLabel>
-        <translation>ローカルテストの実行</translation>
+        <translation><!-- RunLocalTests --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>RunSpecifiedTests</masterLabel>
-        <translation>特定のテストの実行</translation>
+        <translation><!-- RunSpecifiedTests --></translation>
     </picklistValues>
 </CustomFieldTranslation>

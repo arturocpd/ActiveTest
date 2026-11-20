@@ -2,7 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>copado__Actions__c</fullName>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Select the Copado Action to which this Quality Gate Rule will be applied to.</inlineHelpText>
     <label>Copado Actions</label>
     <required>true</required>

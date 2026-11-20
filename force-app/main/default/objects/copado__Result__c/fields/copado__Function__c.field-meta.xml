@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>Lookup field to the function that triggered the result.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Function Parent object that trigger the execution.</inlineHelpText>
     <label>Function</label>
     <referenceTo>copado__Function__c</referenceTo>

@@ -2,7 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>copado__Back_Promotion_Criteria__c</fullName>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Only user stories that meet this criteria will be eligible to be automatically back promoted.</inlineHelpText>
     <label>Back-Promotion Criteria</label>
     <required>false</required>

@@ -3,7 +3,6 @@
     <fullName>copado__Disable_Validation__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Checking this checkbox will not validate the credentials when the record is saved or viewed.</inlineHelpText>
     <label>Disable Validation</label>
     <trackHistory>false</trackHistory>

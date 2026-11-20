@@ -3,7 +3,6 @@
     <fullName>copado__CheckOnly__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>This only Apply for Metadata Steps. None of the other Steps types are affected by this checkbox. 
 WARNING: Credits consumption will apply as a regular deployment since resource-wise is exactly the same as a real deployment.</inlineHelpText>
     <label>CheckOnly</label>

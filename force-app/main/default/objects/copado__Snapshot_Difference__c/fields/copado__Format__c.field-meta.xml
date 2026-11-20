@@ -3,7 +3,6 @@
     <fullName>copado__Format__c</fullName>
     <deprecated>false</deprecated>
     <description>Salesforce configuration files are in the XML format. You can change it to a different format for a faster comparison time and better readability of the differences.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Salesforce configuration files are in the XML format. You can change it to a different format for a faster comparison time and better readability of the differences.</inlineHelpText>
     <label>Format</label>
     <required>false</required>

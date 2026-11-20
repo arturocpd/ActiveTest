@@ -3,7 +3,6 @@
     <fullName>copado__Script__c</fullName>
     <deprecated>false</deprecated>
     <description>Provide the script with the commands you would like the function to execute.</description>
-    <externalId>false</externalId>
     <label>Script</label>
     <length>131072</length>
     <trackTrending>false</trackTrending>

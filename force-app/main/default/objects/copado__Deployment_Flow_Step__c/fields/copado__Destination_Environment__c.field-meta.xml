@@ -3,7 +3,6 @@
     <fullName>copado__Destination_Environment__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Destination Environment</label>
     <referenceTo>copado__Environment__c</referenceTo>
     <relationshipName>Deployment_Flow_Steps1</relationshipName>

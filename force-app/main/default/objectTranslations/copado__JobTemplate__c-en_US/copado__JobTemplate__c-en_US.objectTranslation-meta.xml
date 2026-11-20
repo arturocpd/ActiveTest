@@ -3,16 +3,16 @@
     <layouts>
         <layout>Job Template Layout</layout>
         <sections>
-            <label></label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
     </layouts>
     <quickActions>
-        <label></label>
+        <label><!-- Clone with Steps --></label>
         <name>copado__Clone_with_Steps</name>
     </quickActions>
     <quickActions>
-        <label></label>
+        <label><!-- New Step --></label>
         <name>copado__New_Step</name>
     </quickActions>
 </CustomObjectTranslation>

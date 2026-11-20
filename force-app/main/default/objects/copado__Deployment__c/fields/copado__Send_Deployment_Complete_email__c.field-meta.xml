@@ -3,7 +3,6 @@
     <fullName>copado__Send_Deployment_Complete_email__c</fullName>
     <defaultValue>true</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>When the deployment completes an email will be sent to the owner of the deployment informing them of the status. Uncheck this checkbox to not receive such an email.</inlineHelpText>
     <label>Send Deployment Complete email</label>
     <trackHistory>false</trackHistory>

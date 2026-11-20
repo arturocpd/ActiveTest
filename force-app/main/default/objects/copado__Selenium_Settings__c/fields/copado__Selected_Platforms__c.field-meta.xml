@@ -3,7 +3,6 @@
     <fullName>copado__Selected_Platforms__c</fullName>
     <deprecated>false</deprecated>
     <description>Used by Copado to store the selected platforms to be tested in JSON format.</description>
-    <externalId>false</externalId>
     <label>Selected Platforms</label>
     <length>130000</length>
     <trackTrending>false</trackTrending>

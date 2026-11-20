@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>Select a Job Template to override the default Commit Job Template defined in the Pipeline</description>
-    <externalId>false</externalId>
     <inlineHelpText>Select a Job Template to override the default Commit Job Template defined in the Pipeline</inlineHelpText>
     <label>Commit Job Template Override</label>
     <referenceTo>copado__JobTemplate__c</referenceTo>

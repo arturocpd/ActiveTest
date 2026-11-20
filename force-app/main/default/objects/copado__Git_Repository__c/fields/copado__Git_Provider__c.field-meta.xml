@@ -3,7 +3,6 @@
     <fullName>copado__Git_Provider__c</fullName>
     <deprecated>false</deprecated>
     <description>Copado generates specific links to the Git Repository, its branches and commits based on the selected Git Provider.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Copado generates specific links to the Git Repository, its branches and commits based on the selected Git Provider.</inlineHelpText>
     <label>Git Provider</label>
     <required>false</required>

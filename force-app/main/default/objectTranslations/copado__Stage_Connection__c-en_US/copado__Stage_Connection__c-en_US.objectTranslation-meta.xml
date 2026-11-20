@@ -3,11 +3,11 @@
     <layouts>
         <layout>Stage Connection Layout</layout>
         <sections>
-            <label></label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Stage Dependencies --></label>
             <section>Stage Dependencies</section>
         </sections>
     </layouts>

@@ -3,7 +3,6 @@
     <fullName>copado__Job_Step__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Job Step</label>
     <referenceTo>copado__JobStep__c</referenceTo>
     <relationshipLabel>Job Executions</relationshipLabel>

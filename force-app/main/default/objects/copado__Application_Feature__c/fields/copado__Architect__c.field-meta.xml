@@ -3,7 +3,6 @@
     <fullName>copado__Architect__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Architect</label>
     <referenceTo>User</referenceTo>
     <relationshipName>FeatureArchitects</relationshipName>

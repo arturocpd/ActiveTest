@@ -3,28 +3,28 @@
     <layouts>
         <layout>Data Template Layout</layout>
         <sections>
-            <label></label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
     </layouts>
     <quickActions>
-        <label></label>
+        <label><!-- Activate --></label>
         <name>copado__Activate</name>
     </quickActions>
     <quickActions>
-        <label></label>
+        <label><!-- Clone --></label>
         <name>copado__Clone</name>
     </quickActions>
     <quickActions>
-        <label></label>
+        <label><!-- Deactivate --></label>
         <name>copado__Deactivate</name>
     </quickActions>
     <quickActions>
-        <label></label>
+        <label><!-- Export Template --></label>
         <name>copado__Export_Template</name>
     </quickActions>
     <webLinks>
-        <label></label>
+        <label><!-- Import_Templates --></label>
         <name>copado__Import_Templates</name>
     </webLinks>
 </CustomObjectTranslation>

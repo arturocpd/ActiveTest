@@ -3,20 +3,20 @@
     <layouts>
         <layout>Sprint Layout</layout>
         <sections>
-            <label></label>
+            <label><!-- Additional Information --></label>
             <section>Additional Information</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Sprint Summary --></label>
             <section>Sprint Summary</section>
         </sections>
     </layouts>
     <validationRules>
-        <errorMessage></errorMessage>
+        <errorMessage><!-- You must introduce an End Date greater than the Start Date. --></errorMessage>
         <name>copado__EndDate_Should_be_Greater_than_StartDate</name>
     </validationRules>
 </CustomObjectTranslation>

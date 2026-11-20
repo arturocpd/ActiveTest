@@ -3,7 +3,6 @@
     <fullName>copado__Error_Message__c</fullName>
     <deprecated>false</deprecated>
     <description>Description of the error if the job has failed.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Only displays when there&apos;s an error. It is used to inform the user about what failed during the execution of the associated process.</inlineHelpText>
     <label>Error Message</label>
     <length>32768</length>

@@ -3,15 +3,15 @@
     <layouts>
         <layout>Project Layout</layout>
         <sections>
-            <label></label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Description --></label>
             <section>Description</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Project Summary --></label>
             <section>Project Summary</section>
         </sections>
     </layouts>

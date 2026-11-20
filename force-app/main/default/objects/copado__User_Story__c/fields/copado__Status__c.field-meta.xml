@@ -3,7 +3,6 @@
     <fullName>copado__Status__c</fullName>
     <deprecated>false</deprecated>
     <description>Current status of the implementation of the User Story.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Current status of the implementation of the User Story.</inlineHelpText>
     <label>Status</label>
     <required>false</required>

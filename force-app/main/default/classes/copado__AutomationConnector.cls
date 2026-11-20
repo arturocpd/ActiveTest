@@ -19,7 +19,4 @@ global virtual class AutomationConnector {
     global virtual List<copado.AutomationConnector> getConnectors(copado.AutomationConnectorContext context) {
         return null;
     }
-    global virtual String getUIComponentName() {
-        return null;
-    }
 }

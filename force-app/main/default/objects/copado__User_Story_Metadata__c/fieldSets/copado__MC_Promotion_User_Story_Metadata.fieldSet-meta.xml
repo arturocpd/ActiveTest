@@ -12,6 +12,11 @@
         <isRequired>false</isRequired>
     </availableFields>
     <availableFields>
+        <field>copado__Action__c</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </availableFields>
+    <availableFields>
         <field>copado__User_Story__r.copado__Apex_Code_Coverage__c</field>
         <isFieldManaged>false</isFieldManaged>
         <isRequired>false</isRequired>
@@ -417,12 +422,12 @@
         <isRequired>false</isRequired>
     </availableFields>
     <availableFields>
-        <field>copado__User_Story__r.SystemModstamp</field>
+        <field>SystemModstamp</field>
         <isFieldManaged>false</isFieldManaged>
         <isRequired>false</isRequired>
     </availableFields>
     <availableFields>
-        <field>SystemModstamp</field>
+        <field>copado__User_Story__r.SystemModstamp</field>
         <isFieldManaged>false</isFieldManaged>
         <isRequired>false</isRequired>
     </availableFields>
@@ -509,11 +514,6 @@
     </displayedFields>
     <displayedFields>
         <field>copado__Metadata_API_Name__c</field>
-        <isFieldManaged>false</isFieldManaged>
-        <isRequired>false</isRequired>
-    </displayedFields>
-    <displayedFields>
-        <field>copado__Action__c</field>
         <isFieldManaged>false</isFieldManaged>
         <isRequired>false</isRequired>
     </displayedFields>

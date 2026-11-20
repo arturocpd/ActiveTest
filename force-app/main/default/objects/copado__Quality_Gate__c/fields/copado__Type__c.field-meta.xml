@@ -3,7 +3,6 @@
     <fullName>copado__Type__c</fullName>
     <deprecated>false</deprecated>
     <description>What type of verification will be performed for this quality gate</description>
-    <externalId>false</externalId>
     <inlineHelpText>What type of verification will be performed for this quality gate</inlineHelpText>
     <label>Type</label>
     <required>true</required>

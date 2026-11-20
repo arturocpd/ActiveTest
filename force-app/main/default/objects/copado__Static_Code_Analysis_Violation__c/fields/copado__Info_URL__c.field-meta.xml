@@ -3,7 +3,6 @@
     <fullName>copado__Info_URL__c</fullName>
     <deprecated>false</deprecated>
     <description>Link to the PMD documentation about the rule violated.</description>
-    <externalId>false</externalId>
     <label>Info URL</label>
     <required>false</required>
     <trackTrending>false</trackTrending>

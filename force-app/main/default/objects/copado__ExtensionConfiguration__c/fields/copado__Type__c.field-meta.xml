@@ -2,7 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>copado__Type__c</fullName>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Deprecated - Select the type of test you want to execute with the Extension.</inlineHelpText>
     <label>Type - deprecated</label>
     <required>false</required>

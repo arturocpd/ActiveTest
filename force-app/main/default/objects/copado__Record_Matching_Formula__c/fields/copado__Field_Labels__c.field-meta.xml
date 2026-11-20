@@ -3,7 +3,6 @@
     <fullName>copado__Field_Labels__c</fullName>
     <deprecated>false</deprecated>
     <description>This field stores labels of fields stored in the Field1, Field2, Field3</description>
-    <externalId>false</externalId>
     <label>Field Labels</label>
     <length>32768</length>
     <trackTrending>false</trackTrending>

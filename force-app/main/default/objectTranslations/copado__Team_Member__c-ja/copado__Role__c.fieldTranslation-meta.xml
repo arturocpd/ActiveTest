@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label></label>
+    <label><!-- Role --></label>
     <name>copado__Role__c</name>
     <picklistValues>
         <masterLabel>Analyst</masterLabel>
@@ -12,7 +12,7 @@
     </picklistValues>
     <picklistValues>
         <masterLabel>BSA</masterLabel>
-        <translation></translation>
+        <translation><!-- BSA --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Business Owner</masterLabel>
@@ -24,7 +24,7 @@
     </picklistValues>
     <picklistValues>
         <masterLabel>DBA</masterLabel>
-        <translation></translation>
+        <translation><!-- DBA --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Data Center Engineer</masterLabel>
@@ -40,11 +40,11 @@
     </picklistValues>
     <picklistValues>
         <masterLabel>Doc Editor</masterLabel>
-        <translation>Docエディター</translation>
+        <translation><!-- Doc Editor --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Doc Manager</masterLabel>
-        <translation>Docマネージャー</translation>
+        <translation><!-- Doc Manager --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Network Engineer</masterLabel>
@@ -100,19 +100,19 @@
     </picklistValues>
     <picklistValues>
         <masterLabel>SysAdmin</masterLabel>
-        <translation>システムアドミン</translation>
+        <translation><!-- SysAdmin --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>SysAdmin Linux</masterLabel>
-        <translation>SysAdmin Storage</translation>
+        <translation><!-- SysAdmin Linux --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>SysAdmin Storage</masterLabel>
-        <translation></translation>
+        <translation><!-- SysAdmin Storage --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>SysAdmin Win</masterLabel>
-        <translation></translation>
+        <translation><!-- SysAdmin Win --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>TechOps Manager</masterLabel>
@@ -124,11 +124,11 @@
     </picklistValues>
     <picklistValues>
         <masterLabel>Trust Engineer</masterLabel>
-        <translation>エンジニアを信頼</translation>
+        <translation><!-- Trust Engineer --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>UE</masterLabel>
-        <translation></translation>
+        <translation><!-- UE --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>UE Manager</masterLabel>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help></help>
-    <label></label>
+    <help><!-- Salesforce configuration files are in the XML format. You can change it to a different format for a faster comparison time and better readability of the differences. --></help>
+    <label><!-- Format --></label>
     <name>copado__Format__c</name>
     <picklistValues>
         <masterLabel>JSON</masterLabel>
-        <translation></translation>
+        <translation><!-- JSON --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>XML</masterLabel>
-        <translation></translation>
+        <translation><!-- XML --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>YAML</masterLabel>
-        <translation></translation>
+        <translation><!-- YAML --></translation>
     </picklistValues>
 </CustomFieldTranslation>

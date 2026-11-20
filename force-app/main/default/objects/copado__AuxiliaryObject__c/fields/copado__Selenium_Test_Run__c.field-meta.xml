@@ -3,7 +3,6 @@
     <fullName>copado__Selenium_Test_Run__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Selenium Test Run</label>
     <referenceTo>copado__Selenium_Test_Run__c</referenceTo>
     <relationshipLabel>AuxiliaryObjects</relationshipLabel>

@@ -3,7 +3,6 @@
     <fullName>copado__Insert__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Insert</label>
     <trackTrending>false</trackTrending>
     <type>Checkbox</type>

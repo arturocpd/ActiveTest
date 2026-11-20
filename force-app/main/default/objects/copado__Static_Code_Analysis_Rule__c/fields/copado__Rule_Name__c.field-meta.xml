@@ -2,7 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>copado__Rule_Name__c</fullName>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>For more info, please visit: http://pmd.sourceforge.net/snapshot/pmd-apex/rules/index.html</inlineHelpText>
     <label>Rule Name</label>
     <required>true</required>

@@ -3,7 +3,6 @@
     <fullName>copado__Frequency__c</fullName>
     <deprecated>false</deprecated>
     <description>Schedule automatic metadata backups. With the frequency set, Copado will automatically commit the metadata components of the Org into the Branch.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Schedule automatic metadata backups. With the frequency set, Copado will automatically commit the metadata components of the Org into the Branch.</inlineHelpText>
     <label>Frequency</label>
     <required>false</required>

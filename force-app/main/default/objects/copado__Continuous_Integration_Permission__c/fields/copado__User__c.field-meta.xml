@@ -3,7 +3,6 @@
     <fullName>copado__User__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>User</label>
     <referenceTo>User</referenceTo>
     <relationshipLabel>Continuous Integration Permissions</relationshipLabel>

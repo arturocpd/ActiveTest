@@ -3,7 +3,6 @@
     <fullName>copado__Subscribed__c</fullName>
     <defaultValue>true</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Subscribed</label>
     <trackTrending>false</trackTrending>
     <type>Checkbox</type>

@@ -3,7 +3,6 @@
     <fullName>copado__Last_Merge_Base__c</fullName>
     <deprecated>false</deprecated>
     <description>Last date and time when the source and target branch were in Sync (no commits ahead or behind).</description>
-    <externalId>false</externalId>
     <inlineHelpText>Last date and time when the source and target branch were in Sync (no commits ahead or behind).</inlineHelpText>
     <label>Last Merge Base</label>
     <required>false</required>

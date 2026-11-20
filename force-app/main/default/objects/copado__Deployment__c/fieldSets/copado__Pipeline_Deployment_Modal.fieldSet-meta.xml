@@ -22,6 +22,11 @@
         <isRequired>false</isRequired>
     </availableFields>
     <availableFields>
+        <field>CreatedDate</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </availableFields>
+    <availableFields>
         <field>copado__Deployment_Completed_email_sent__c</field>
         <isFieldManaged>false</isFieldManaged>
         <isRequired>false</isRequired>
@@ -87,6 +92,11 @@
         <isRequired>false</isRequired>
     </availableFields>
     <availableFields>
+        <field>copado__Promotion__c</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </availableFields>
+    <availableFields>
         <field>RecordTypeId</field>
         <isFieldManaged>false</isFieldManaged>
         <isRequired>false</isRequired>
@@ -113,6 +123,11 @@
     </availableFields>
     <availableFields>
         <field>copado__Promotion__r.copado__Source_Environment__c</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </availableFields>
+    <availableFields>
+        <field>copado__Source_Environment__c</field>
         <isFieldManaged>false</isFieldManaged>
         <isRequired>false</isRequired>
     </availableFields>
@@ -158,22 +173,7 @@
         <isRequired>false</isRequired>
     </displayedFields>
     <displayedFields>
-        <field>copado__Source_Environment__c</field>
-        <isFieldManaged>false</isFieldManaged>
-        <isRequired>false</isRequired>
-    </displayedFields>
-    <displayedFields>
         <field>copado__Promotion__r.copado__Back_Promotion__c</field>
-        <isFieldManaged>false</isFieldManaged>
-        <isRequired>false</isRequired>
-    </displayedFields>
-    <displayedFields>
-        <field>copado__Promotion__c</field>
-        <isFieldManaged>false</isFieldManaged>
-        <isRequired>false</isRequired>
-    </displayedFields>
-    <displayedFields>
-        <field>CreatedDate</field>
         <isFieldManaged>false</isFieldManaged>
         <isRequired>false</isRequired>
     </displayedFields>

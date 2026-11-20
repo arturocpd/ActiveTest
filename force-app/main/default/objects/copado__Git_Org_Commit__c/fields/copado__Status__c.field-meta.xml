@@ -3,7 +3,6 @@
     <fullName>copado__Status__c</fullName>
     <deprecated>false</deprecated>
     <description>The status of the commit. This value is updating automatically by Copado.</description>
-    <externalId>false</externalId>
     <inlineHelpText>The status of the commit. This value is updating automatically by Copado.</inlineHelpText>
     <label>Status</label>
     <required>false</required>

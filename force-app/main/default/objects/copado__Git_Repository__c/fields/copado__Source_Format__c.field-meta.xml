@@ -3,7 +3,6 @@
     <fullName>copado__Source_Format__c</fullName>
     <deprecated>false</deprecated>
     <description>Choose between standard Metadata API folder and file structure or DX source structure that uses a different set of files and file extensions. Default is Metadata.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Choose between standard Metadata API folder and file structure or DX source structure that uses a different set of files and file extensions. Default is Metadata.</inlineHelpText>
     <label>Source Format</label>
     <required>false</required>

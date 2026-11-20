@@ -3,7 +3,6 @@
     <fullName>copado__Allow_Functions_Git_Cache__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Allow Functions Git Cache</label>
     <trackTrending>false</trackTrending>
     <type>Checkbox</type>

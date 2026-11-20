@@ -4,7 +4,6 @@
     <deprecated>false</deprecated>
     <description>If the step type is &quot;data&quot;  this should contains the json defining the query. 
 In production this field should be HIDDEN</description>
-    <externalId>false</externalId>
     <label>dataJson</label>
     <length>131072</length>
     <trackHistory>false</trackHistory>

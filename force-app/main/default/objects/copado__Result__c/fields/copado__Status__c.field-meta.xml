@@ -4,7 +4,6 @@
     <defaultValue>&quot;Not Started&quot;</defaultValue>
     <deprecated>false</deprecated>
     <description>Status of the job execution.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Current status of the result. Confirms if the result is pending or completed.</inlineHelpText>
     <label>Status</label>
     <required>false</required>

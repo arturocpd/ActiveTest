@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>If &apos;Manual Approval&apos;, &apos;Manual Test&apos;, or &apos;Pull Request&apos; is selected as the type, who should this task be assigned to?</description>
-    <externalId>false</externalId>
     <inlineHelpText>If &apos;Manual Approval&apos;, &apos;Manual Test&apos;, or &apos;Pull Request&apos; is selected as the type, who should this task be assigned to?</inlineHelpText>
     <label>Manual Task Owner</label>
     <referenceTo>User</referenceTo>

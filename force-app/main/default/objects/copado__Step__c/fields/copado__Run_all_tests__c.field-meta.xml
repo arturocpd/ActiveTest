@@ -3,7 +3,6 @@
     <fullName>copado__Run_all_tests__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Run all tests</label>
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>

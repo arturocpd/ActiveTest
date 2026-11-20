@@ -3,7 +3,6 @@
     <fullName>copado__Code_Smells__c</fullName>
     <deprecated>false</deprecated>
     <description>Number of Code Smell violations</description>
-    <externalId>false</externalId>
     <label>Code Smells</label>
     <summaryFilterItems>
         <field>copado__Static_Code_Analysis_Violation__c.copado__Type__c</field>

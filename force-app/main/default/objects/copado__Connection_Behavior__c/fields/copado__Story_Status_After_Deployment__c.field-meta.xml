@@ -3,7 +3,6 @@
     <fullName>copado__Story_Status_After_Deployment__c</fullName>
     <deprecated>false</deprecated>
     <description>Automatically change the status of user stories after deploying them to the target environment</description>
-    <externalId>false</externalId>
     <inlineHelpText>What status should user stories be set to after they are successfully deployed?</inlineHelpText>
     <label>User Story Status After Promotion</label>
     <required>false</required>

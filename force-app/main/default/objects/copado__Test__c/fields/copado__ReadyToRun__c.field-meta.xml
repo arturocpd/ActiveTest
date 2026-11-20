@@ -3,7 +3,6 @@
     <fullName>copado__ReadyToRun__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>By checking this field, you are indicating that the test is ready to be executed and the &apos;Run&apos; button will display.</inlineHelpText>
     <label>Ready to Run</label>
     <trackTrending>false</trackTrending>

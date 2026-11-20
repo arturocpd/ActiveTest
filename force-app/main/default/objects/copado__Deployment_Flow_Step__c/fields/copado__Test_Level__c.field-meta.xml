@@ -2,7 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>copado__Test_Level__c</fullName>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Recommended Test Level: &quot;Run Local Tests&quot;</inlineHelpText>
     <label>Test Level</label>
     <required>false</required>

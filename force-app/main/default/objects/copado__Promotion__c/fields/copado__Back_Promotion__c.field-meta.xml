@@ -4,7 +4,6 @@
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
     <description>Checked if the promotion is from a higher environment to a lower environment in the deployment flow.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Select this checkbox if you are promoting from a higher to a lower environment in the pipeline.</inlineHelpText>
     <label>Is Back-Promotion</label>
     <trackTrending>false</trackTrending>

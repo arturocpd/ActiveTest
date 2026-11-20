@@ -3,7 +3,6 @@
     <fullName>copado__Apply_Connection_Behaviours_to_existing__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Use this option if you want User Stories which already promoted in your Copado Pipeline to apply to the connection behaviours for back promotions which you create in Copado Continuous Delivery</inlineHelpText>
     <label>Apply Connection Behaviors to All</label>
     <trackHistory>false</trackHistory>

@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label></label>
+    <label><!-- Status --></label>
     <name>copado__Status__c</name>
     <picklistValues>
         <masterLabel>Accepted</masterLabel>
-        <translation></translation>
+        <translation><!-- Accepted --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Coming Soon</masterLabel>
-        <translation></translation>
+        <translation><!-- Coming Soon --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Delivered</masterLabel>
-        <translation></translation>
+        <translation><!-- Delivered --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Refinement</masterLabel>
-        <translation></translation>
+        <translation><!-- Refinement --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Rejected</masterLabel>
-        <translation></translation>
+        <translation><!-- Rejected --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Requested</masterLabel>
-        <translation></translation>
+        <translation><!-- Requested --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Under Review</masterLabel>
-        <translation></translation>
+        <translation><!-- Under Review --></translation>
     </picklistValues>
 </CustomFieldTranslation>

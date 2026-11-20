@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help>選択したクレデンシャルの Salesforce Org データモデルに基づいて、メインオブジェクト、フィールド、および関連オブジェクトがリストされます。クレデンシャルにリンクされている Salesforce ユーザは、デプロイに必要なすべてのフィールドとオブジェクトにアクセスできる必要があります。</help>
-    <label></label>
+    <help><!-- The main objects, fields and related objects will be listed based on the Salesforce Org data model of the selected credential. The Salesforce user linked to the credential must have access to all the fields and objects necessary for your deployments. --></help>
+    <label><!-- Template Schema Credential --></label>
     <name>copado__Template_Source_Org__c</name>
-    <relationshipLabel></relationshipLabel>
+    <relationshipLabel><!-- Data Templates --></relationshipLabel>
 </CustomFieldTranslation>

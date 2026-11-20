@@ -3,7 +3,6 @@
     <fullName>copado__Child_User_Story_Release__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Child User Story Release</label>
     <referenceTo>copado__Release__c</referenceTo>
     <relationshipLabel>User Story Dependencies (Child User Story Release)</relationshipLabel>

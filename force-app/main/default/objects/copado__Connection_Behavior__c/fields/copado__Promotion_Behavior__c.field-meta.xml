@@ -3,7 +3,6 @@
     <fullName>copado__Promotion_Behavior__c</fullName>
     <deprecated>false</deprecated>
     <description>How should user stories be deployed from lower (dev/test) environments to higher environments (test/prod)</description>
-    <externalId>false</externalId>
     <inlineHelpText>How should user stories be deployed from lower (dev/test) environments to higher environments (test/prod)</inlineHelpText>
     <label>Promotion Execution</label>
     <required>true</required>

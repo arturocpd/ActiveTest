@@ -2,7 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>copado__Execution_sequence__c</fullName>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Define when, during runtime, a quality gate rule should be evaluated for the action selected.</inlineHelpText>
     <label>Execution Sequence</label>
     <required>true</required>

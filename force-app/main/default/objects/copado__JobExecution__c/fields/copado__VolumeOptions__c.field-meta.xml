@@ -3,7 +3,6 @@
     <fullName>copado__VolumeOptions__c</fullName>
     <deprecated>false</deprecated>
     <description>In this field, you can introduce a list of JSON options with the configuration for the volumes used in every new job execution.</description>
-    <externalId>false</externalId>
     <label>VolumeOptions</label>
     <length>32768</length>
     <trackTrending>false</trackTrending>

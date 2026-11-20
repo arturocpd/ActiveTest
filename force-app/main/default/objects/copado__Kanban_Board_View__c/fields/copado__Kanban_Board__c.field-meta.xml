@@ -3,7 +3,6 @@
     <fullName>copado__Kanban_Board__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Kanban Board</label>
     <referenceTo>copado__Kanban_Board__c</referenceTo>
     <relationshipLabel>Kanban Board Views</relationshipLabel>

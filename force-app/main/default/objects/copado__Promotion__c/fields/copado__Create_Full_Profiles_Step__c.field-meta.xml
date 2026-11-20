@@ -3,7 +3,6 @@
     <fullName>copado__Create_Full_Profiles_Step__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Select this checkbox if you wish to move added permission sets to a Full Permission Sets step. Doing this will remove the permission sets from the Metadata step.</inlineHelpText>
     <label>Create Full Profiles Step</label>
     <trackTrending>false</trackTrending>

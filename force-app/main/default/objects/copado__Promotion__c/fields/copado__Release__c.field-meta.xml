@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>This field will provide the ability to deploy User Stories within a Release.</description>
-    <externalId>false</externalId>
     <label>Release</label>
     <referenceTo>copado__Release__c</referenceTo>
     <relationshipLabel>Promotions</relationshipLabel>

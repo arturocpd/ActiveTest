@@ -3,7 +3,6 @@
     <fullName>copado__Script_Step__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Script Step</label>
     <referenceTo>copado__Test_Script_Step__c</referenceTo>
     <relationshipLabel>Test Run Steps</relationshipLabel>

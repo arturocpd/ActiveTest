@@ -3,7 +3,6 @@
     <fullName>copado__Vulnerabilities__c</fullName>
     <deprecated>false</deprecated>
     <description>CodeScan Vulnerability violations</description>
-    <externalId>false</externalId>
     <label>Vulnerabilities</label>
     <summaryFilterItems>
         <field>copado__Static_Code_Analysis_Violation__c.copado__Type__c</field>

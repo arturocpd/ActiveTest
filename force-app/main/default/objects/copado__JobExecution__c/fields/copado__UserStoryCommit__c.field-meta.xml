@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>This field refers to the parent User Story Commit record of the job execution.</description>
-    <externalId>false</externalId>
     <inlineHelpText>This field relates to the parent User Story Commit record of the job execution</inlineHelpText>
     <label>User Story Commit</label>
     <referenceTo>copado__User_Story_Commit__c</referenceTo>

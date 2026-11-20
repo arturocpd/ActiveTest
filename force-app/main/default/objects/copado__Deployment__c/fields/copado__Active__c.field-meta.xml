@@ -3,7 +3,6 @@
     <fullName>copado__Active__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Only Active Templates are available when searching for them, for example in deployment steps</inlineHelpText>
     <label>Active</label>
     <trackHistory>false</trackHistory>

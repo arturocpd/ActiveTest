@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>If &apos;Compliance Check&apos; is selected as the type, what Compliance Rule Group should be run?</description>
-    <externalId>false</externalId>
     <inlineHelpText>If &apos;Compliance Check&apos; is selected as the type, what Compliance Rule Group should be run?</inlineHelpText>
     <label>Compliance Rule Group</label>
     <referenceTo>copado__Compliance_Rule_Group__c</referenceTo>

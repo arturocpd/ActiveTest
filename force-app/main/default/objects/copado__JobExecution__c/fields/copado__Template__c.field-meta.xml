@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>It is a reusable template with a list of steps that can be executed as part of different processes such as a commit, a promotion or a deployment.</description>
-    <externalId>false</externalId>
     <label>Template</label>
     <referenceTo>copado__JobTemplate__c</referenceTo>
     <relationshipLabel>Job Executions</relationshipLabel>

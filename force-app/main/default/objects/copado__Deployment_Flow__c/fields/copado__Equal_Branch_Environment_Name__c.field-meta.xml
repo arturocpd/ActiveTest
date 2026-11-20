@@ -4,7 +4,6 @@
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
     <description>If checked, Environment names must equal their corresponding Branches in the Deployment Flow Steps.</description>
-    <externalId>false</externalId>
     <inlineHelpText>If checked, Environment names must equal their corresponding Branches in the Deployment Flow Steps.</inlineHelpText>
     <label>Enforce branch/env naming convention</label>
     <trackHistory>false</trackHistory>

@@ -3,31 +3,31 @@
     <layouts>
         <layout>Quality Gate Layout</layout>
         <sections>
-            <label></label>
+            <label><!-- Apex Test Settings --></label>
             <section>Apex Test Settings</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Automation Details --></label>
             <section>Automation Details</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Compliance Rule Settings --></label>
             <section>Compliance Rule Settings</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Manual Step Settings --></label>
             <section>Manual Step Settings</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Selenium Test Settings --></label>
             <section>Selenium Test Settings</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Static Code Analysis Settings --></label>
             <section>Static Code Analysis Settings</section>
         </sections>
     </layouts>

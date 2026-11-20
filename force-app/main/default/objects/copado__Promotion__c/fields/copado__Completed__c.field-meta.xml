@@ -3,7 +3,6 @@
     <fullName>copado__Completed__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>This field is checked by Copado once the promotion is merged and deployed successfully for multi-cloud platform.</inlineHelpText>
     <label>Completed</label>
     <trackTrending>false</trackTrending>

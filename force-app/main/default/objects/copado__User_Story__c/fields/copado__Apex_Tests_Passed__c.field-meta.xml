@@ -3,7 +3,6 @@
     <fullName>copado__Apex_Tests_Passed__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Apex Tests Passed</label>
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>

@@ -3,7 +3,6 @@
     <fullName>copado__Compliance_Rule_Group__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Compliance Rule Group</label>
     <referenceTo>copado__Compliance_Rule_Group__c</referenceTo>
     <relationshipLabel>Environments</relationshipLabel>

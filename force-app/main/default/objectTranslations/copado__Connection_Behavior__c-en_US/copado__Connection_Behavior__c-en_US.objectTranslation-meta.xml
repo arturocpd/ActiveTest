@@ -3,28 +3,28 @@
     <layouts>
         <layout>Connection Behavior Layout</layout>
         <sections>
-            <label></label>
+            <label><!-- Back-Promotion Details --></label>
             <section>Back-Promotion Details</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Post-deployment Actions --></label>
             <section>Post-deployment Actions</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Promotion Details --></label>
             <section>Promotion Details</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Usage Information --></label>
             <section>Usage Information</section>
         </sections>
     </layouts>
     <validationRules>
-        <errorMessage></errorMessage>
+        <errorMessage><!-- Batch Size fields for Promotion or Back Promotion needs to be between 1 and 2000 --></errorMessage>
         <name>copado__Batch_Size_Valid_Interval</name>
     </validationRules>
 </CustomObjectTranslation>

@@ -2,7 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>copado__Copado_DX_Mode__c</fullName>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Selected DX mode will determine scratch metadata sources.</inlineHelpText>
     <label>Copado DX Mode</label>
     <required>false</required>

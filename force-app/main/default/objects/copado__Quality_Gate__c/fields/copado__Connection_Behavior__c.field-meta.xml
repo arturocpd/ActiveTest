@@ -4,7 +4,6 @@
     <deleteConstraint>Restrict</deleteConstraint>
     <deprecated>false</deprecated>
     <description>What Connection Behavior is this Quality Gate attached to?</description>
-    <externalId>false</externalId>
     <inlineHelpText>What Connection Behavior is this Quality Gate attached to?</inlineHelpText>
     <label>Parent Connection Behavior</label>
     <referenceTo>copado__Connection_Behavior__c</referenceTo>

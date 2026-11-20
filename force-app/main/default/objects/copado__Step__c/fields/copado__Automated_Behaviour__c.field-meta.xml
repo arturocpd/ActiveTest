@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>Automation that originated this deployment step.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Automation that originated this deployment step.</inlineHelpText>
     <label>Automated Behaviour</label>
     <referenceTo>copado__Quality_Gate__c</referenceTo>

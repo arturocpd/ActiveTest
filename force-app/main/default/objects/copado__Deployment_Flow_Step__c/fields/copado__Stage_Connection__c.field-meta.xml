@@ -3,7 +3,6 @@
     <fullName>copado__Stage_Connection__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Stage Connection where the source environment belongs to.</inlineHelpText>
     <label>Stage Connection</label>
     <lookupFilter>

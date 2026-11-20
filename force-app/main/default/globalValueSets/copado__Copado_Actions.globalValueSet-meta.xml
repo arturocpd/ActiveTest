@@ -31,23 +31,9 @@
         <label>Publish Package Version</label>
     </customValue>
     <customValue>
-        <fullName>ImportPackage</fullName>
-        <default>false</default>
-        <label>Import Package</label>
-    </customValue>
-    <customValue>
-        <fullName>Rollback</fullName>
-        <default>false</default>
-        <label>Rollback</label>
-    </customValue>
-    <customValue>
-        <fullName>TakeSnapshot</fullName>
-        <default>false</default>
-        <label>TakeSnapshot</label>
-    </customValue>
-    <customValue>
         <fullName>PackageDistribution</fullName>
         <default>false</default>
+        <isActive>false</isActive>
         <label>PackageDistribution</label>
     </customValue>
     <customValue>

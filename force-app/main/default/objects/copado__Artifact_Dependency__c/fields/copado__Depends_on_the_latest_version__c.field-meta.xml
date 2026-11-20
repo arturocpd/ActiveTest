@@ -3,7 +3,6 @@
     <fullName>copado__Depends_on_the_latest_version__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>If checked, the latest version of the depending artifact will be used for version creation and installation operations</inlineHelpText>
     <label>Depends on the latest version</label>
     <trackHistory>false</trackHistory>

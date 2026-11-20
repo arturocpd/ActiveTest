@@ -3,7 +3,6 @@
     <fullName>copado__Result_Data__c</fullName>
     <deprecated>false</deprecated>
     <description>Includes all the returned data by the process. This can be used by other processes.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Includes all the returned data by the process. This can be used by other processes.</inlineHelpText>
     <label>Result Data</label>
     <length>131072</length>

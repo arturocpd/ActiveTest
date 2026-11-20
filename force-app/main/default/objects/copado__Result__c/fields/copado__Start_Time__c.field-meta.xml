@@ -3,7 +3,6 @@
     <fullName>copado__Start_Time__c</fullName>
     <deprecated>false</deprecated>
     <description>Date and time when the job started.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Date time when the job started.</inlineHelpText>
     <label>Start Time</label>
     <required>false</required>

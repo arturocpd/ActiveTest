@@ -3,11 +3,11 @@
     <layouts>
         <layout>Pull Request Layout</layout>
         <sections>
-            <label></label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Other Information --></label>
             <section>Other Information</section>
         </sections>
     </layouts>

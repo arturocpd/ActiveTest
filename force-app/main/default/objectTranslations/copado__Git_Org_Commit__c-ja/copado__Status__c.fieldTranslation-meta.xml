@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <help>コミットの状況。この値はCopadoによって自動的に更新されています。</help>
-    <label></label>
+    <label><!-- Status --></label>
     <name>copado__Status__c</name>
     <picklistValues>
         <masterLabel>Commit not in branch</masterLabel>

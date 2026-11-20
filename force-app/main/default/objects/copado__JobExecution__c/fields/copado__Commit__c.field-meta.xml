@@ -3,7 +3,6 @@
     <fullName>copado__Commit__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Commit</label>
     <referenceTo>copado__Git_Commit__c</referenceTo>
     <relationshipLabel>Job Executions</relationshipLabel>

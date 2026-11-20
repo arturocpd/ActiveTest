@@ -4,7 +4,6 @@
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
     <description>Enables Saucelabs Connect or Browserstack Local Testing</description>
-    <externalId>false</externalId>
     <inlineHelpText>Use a local proxy to access an org behind a VPN? This enables Saucelabs Connect or Browserstack Local Testing.</inlineHelpText>
     <label>Webdriver Proxy</label>
     <trackTrending>false</trackTrending>

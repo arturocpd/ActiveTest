@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>Current environment of the User Story. This value is added automatically by Copado based on the selected Credential.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Current environment of the User Story. This value is added automatically by Copado based on the selected Credential.</inlineHelpText>
     <label>Environment</label>
     <referenceTo>copado__Environment__c</referenceTo>

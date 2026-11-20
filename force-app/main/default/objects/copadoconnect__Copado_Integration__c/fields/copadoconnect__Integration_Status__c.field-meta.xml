@@ -2,7 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>copadoconnect__Integration_Status__c</fullName>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>This represents the status of the integration and the syncing of records.</inlineHelpText>
     <label>Integration Status</label>
     <required>false</required>

@@ -3,7 +3,6 @@
     <fullName>copado__Do_Not_Update_Promotion__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Do Not Update Promotion</label>
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>

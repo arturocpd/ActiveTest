@@ -3,7 +3,6 @@
     <fullName>copado__Cancellation_Reason__c</fullName>
     <deprecated>false</deprecated>
     <description>Describes why the User Story was cancelled, so that this information is available.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Describes why the User Story was cancelled, so that this information is available.</inlineHelpText>
     <label>Cancellation Reason</label>
     <required>false</required>

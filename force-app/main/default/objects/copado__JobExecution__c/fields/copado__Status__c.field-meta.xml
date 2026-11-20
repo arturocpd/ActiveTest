@@ -3,7 +3,6 @@
     <fullName>copado__Status__c</fullName>
     <deprecated>false</deprecated>
     <description>It is the status of the job execution.</description>
-    <externalId>false</externalId>
     <label>Status</label>
     <required>false</required>
     <trackTrending>false</trackTrending>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <help>メタデータの自動バックアップのスケジュールを設定します。頻度が設定されると、Copadoは自動的に組織のメタデータコンポーネントをブランチにコミットします。</help>
-    <label></label>
+    <label><!-- Frequency --></label>
     <name>copado__Frequency__c</name>
     <picklistValues>
         <masterLabel>Daily</masterLabel>

@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>If &apos;Selenium Test&apos; is selected as the type, what Selenium Test Group should be run?</description>
-    <externalId>false</externalId>
     <inlineHelpText>If &apos;Selenium Test&apos; is selected as the type, what Selenium Test Group should be run?</inlineHelpText>
     <label>Selenium Test Group</label>
     <referenceTo>copado__Selenium_Test_Group__c</referenceTo>

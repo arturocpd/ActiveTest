@@ -3,7 +3,6 @@
     <fullName>copado__Device_Screen_Size__c</fullName>
     <deprecated>false</deprecated>
     <description>Display Size for Windows/Mac platforms</description>
-    <externalId>false</externalId>
     <inlineHelpText>Display Size for Windows/Mac platforms. E.G. Saucelabs with Windows only supports small size ( &lt; 1280x1024 )</inlineHelpText>
     <label>Device Screen Size</label>
     <required>false</required>

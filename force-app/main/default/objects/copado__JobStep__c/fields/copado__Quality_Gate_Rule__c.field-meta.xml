@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>The quality check performed by the job step.</description>
-    <externalId>false</externalId>
     <inlineHelpText>The quality check performed by the job step.</inlineHelpText>
     <label>Quality Gate Rule</label>
     <referenceTo>copado__Quality_Gate_Rule__c</referenceTo>

@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>The user who receives the notification</description>
-    <externalId>false</externalId>
     <label>Receiver</label>
     <referenceTo>User</referenceTo>
     <relationshipName>Notification_Default_Channels</relationshipName>

@@ -4,7 +4,6 @@
     <defaultValue>true</defaultValue>
     <deprecated>false</deprecated>
     <description>If unchecked, Copado will stop applying Smart Conflict resolution during the promotion process and users will have to manually resolve conflicts again in every subsequent promotion.</description>
-    <externalId>false</externalId>
     <inlineHelpText>If unchecked, Copado will stop applying Smart Conflict resolution during the promotion process and users will have to manually resolve conflicts again in every subsequent promotion.</inlineHelpText>
     <label>Enable Smart Conflict Resolution</label>
     <trackHistory>false</trackHistory>

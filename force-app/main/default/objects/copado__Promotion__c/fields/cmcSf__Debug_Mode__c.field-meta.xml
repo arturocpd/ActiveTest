@@ -4,7 +4,6 @@
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
     <description>Enabling this, you can see the source files deployed (as part of this promotion) to the destination org on your git repository branch named copadoDebug/&lt;PromotionNumber&gt;</description>
-    <externalId>false</externalId>
     <inlineHelpText>Enabling this, you can see the source files deployed (as part of this promotion) to the destination org on your git repository branch named copadoDebug/&lt;PromotionNumber&gt;</inlineHelpText>
     <label>Debug Mode</label>
     <trackTrending>false</trackTrending>

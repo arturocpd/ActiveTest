@@ -2,7 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>copado__Org_Count__c</fullName>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Credential Count</label>
     <summaryForeignKey>copado__Deployment_Job__c.copado__Step__c</summaryForeignKey>
     <summaryOperation>count</summaryOperation>

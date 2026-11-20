@@ -3,7 +3,6 @@
     <fullName>copado__LatestJobExecution__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Latest Job Execution</label>
     <referenceTo>copado__JobExecution__c</referenceTo>
     <relationshipLabel>Tests</relationshipLabel>

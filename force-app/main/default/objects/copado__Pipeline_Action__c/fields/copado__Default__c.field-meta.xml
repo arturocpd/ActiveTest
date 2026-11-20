@@ -3,7 +3,6 @@
     <fullName>copado__Default__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>This checkbox lets you know if this pipeline action is used as default across all the environments in the pipeline.</inlineHelpText>
     <label>Default</label>
     <trackHistory>false</trackHistory>

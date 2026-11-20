@@ -3,7 +3,6 @@
     <fullName>copado__Closed_At__c</fullName>
     <deprecated>false</deprecated>
     <description>The date when the pull request was closed or empty if it is not closed</description>
-    <externalId>false</externalId>
     <label>Closed At</label>
     <required>false</required>
     <trackTrending>false</trackTrending>

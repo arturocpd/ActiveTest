@@ -2,7 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>copadoconnect__Provider__c</fullName>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Provider</label>
     <required>true</required>
     <trackTrending>false</trackTrending>

@@ -21,7 +21,7 @@
             var jqxdatatable_config = {
                 data: {
                     deploymentId: '{!deployment.Id}',
-                    stepId: '{!JSENCODE(stepId)}'
+                    stepId: '{!stepId}'
                 },
                 elts: {},
                 server: {

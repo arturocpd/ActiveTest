@@ -3,7 +3,6 @@
     <fullName>copado__End_Time__c</fullName>
     <deprecated>false</deprecated>
     <description>Date and time when the job ended</description>
-    <externalId>false</externalId>
     <inlineHelpText>Date time when the job ended.</inlineHelpText>
     <label>End Time</label>
     <required>false</required>

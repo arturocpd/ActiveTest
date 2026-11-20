@@ -3,7 +3,6 @@
     <fullName>copado__Value_Type__c</fullName>
     <businessStatus>Hidden</businessStatus>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Value Type</label>
     <required>false</required>
     <trackTrending>false</trackTrending>

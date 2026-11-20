@@ -3,7 +3,6 @@
     <fullName>copado__Estimated_Value__c</fullName>
     <businessStatus>Hidden</businessStatus>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Estimated Value</label>
     <precision>18</precision>
     <required>false</required>

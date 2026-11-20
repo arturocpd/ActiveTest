@@ -3,7 +3,6 @@
     <fullName>copado__Snapshot_Frequency__c</fullName>
     <defaultValue>&apos;None&apos;</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Use this field to configure automatic metadata backups. Copado will automatically commit the metadata components of the Org as per the frequency and cron expression defined.</inlineHelpText>
     <label>Frequency</label>
     <required>false</required>

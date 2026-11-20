@@ -3,24 +3,24 @@
     <layouts>
         <layout>Extension Configuration Layout</layout>
         <sections>
-            <label></label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
     </layouts>
     <quickActions>
-        <label></label>
+        <label><!-- Activate - Deprecated --></label>
         <name>copado__Activate</name>
     </quickActions>
     <quickActions>
-        <label></label>
+        <label><!-- Activate --></label>
         <name>copado__Activation</name>
     </quickActions>
     <quickActions>
-        <label></label>
+        <label><!-- Deactivate --></label>
         <name>copado__Deactivate</name>
     </quickActions>
     <validationRules>
-        <errorMessage></errorMessage>
+        <errorMessage><!-- This Extension Tool cannot be modified. Please create a new Extension Configuration record instead. --></errorMessage>
         <name>copado__PreventUpdatingExtensionTool</name>
     </validationRules>
 </CustomObjectTranslation>

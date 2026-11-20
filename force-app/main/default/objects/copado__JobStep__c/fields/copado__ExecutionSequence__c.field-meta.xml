@@ -3,7 +3,6 @@
     <fullName>copado__ExecutionSequence__c</fullName>
     <deprecated>false</deprecated>
     <description>Used to define the order of execution in the context of User Story Deployment</description>
-    <externalId>false</externalId>
     <label>Execution Sequence</label>
     <required>false</required>
     <trackTrending>false</trackTrending>

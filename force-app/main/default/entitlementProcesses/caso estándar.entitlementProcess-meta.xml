@@ -10,6 +10,7 @@
         <value>true</value>
     </exitCriteriaFilterItems>
     <milestones>
+        <isDisplayedOnLinkedEntity>false</isDisplayedOnLinkedEntity>
         <milestoneName>Primera respuesta al cliente</milestoneName>
         <minutesToComplete>240</minutesToComplete>
         <timeTriggers>
@@ -23,11 +24,13 @@
         <useCriteriaStartTime>false</useCriteriaStartTime>
     </milestones>
     <milestones>
+        <isDisplayedOnLinkedEntity>false</isDisplayedOnLinkedEntity>
         <milestoneName>Distribuir caso</milestoneName>
         <minutesToComplete>1440</minutesToComplete>
         <useCriteriaStartTime>false</useCriteriaStartTime>
     </milestones>
     <milestones>
+        <isDisplayedOnLinkedEntity>false</isDisplayedOnLinkedEntity>
         <milestoneName>Cerrar caso</milestoneName>
         <minutesToComplete>5760</minutesToComplete>
         <useCriteriaStartTime>false</useCriteriaStartTime>

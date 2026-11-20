@@ -3,7 +3,6 @@
     <fullName>copado__Selenium_Settings__c</fullName>
     <deleteConstraint>Restrict</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>All tests runs belonging to this Test Group will use these Selenium Settings.</inlineHelpText>
     <label>Selenium Settings</label>
     <referenceTo>copado__Selenium_Settings__c</referenceTo>

@@ -3,7 +3,6 @@
     <fullName>copado__Compliance_Status__c</fullName>
     <deprecated>false</deprecated>
     <description>Current status of the User Story Compliance scan.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Current status of the User Story Compliance scan.</inlineHelpText>
     <label>Compliance Status</label>
     <required>false</required>

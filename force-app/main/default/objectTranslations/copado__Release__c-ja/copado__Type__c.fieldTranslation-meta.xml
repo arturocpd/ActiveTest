@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help>バージョンを設定オプションでこれらの値を更新します。</help>
-    <label></label>
+    <help><!-- Update these values via the &quot;Set Version&quot; option --></help>
+    <label><!-- Type --></label>
     <name>copado__Type__c</name>
     <picklistValues>
         <masterLabel>Major</masterLabel>
-        <translation>メジャー</translation>
+        <translation><!-- Major --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Minor</masterLabel>
-        <translation>マイナー</translation>
+        <translation><!-- Minor --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Patch</masterLabel>
-        <translation>パッチ</translation>
+        <translation><!-- Patch --></translation>
     </picklistValues>
 </CustomFieldTranslation>

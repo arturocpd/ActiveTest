@@ -3,7 +3,6 @@
     <fullName>copado__Promotion_Job_Template__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Promotion Job Template</label>
     <referenceTo>copado__JobTemplate__c</referenceTo>
     <relationshipLabel>Pipelines</relationshipLabel>

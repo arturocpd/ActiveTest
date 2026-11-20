@@ -3,7 +3,6 @@
     <fullName>copado__Template__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>The automation template that defined the steps of this deployment.</inlineHelpText>
     <label>Template</label>
     <referenceTo>copado__Deployment__c</referenceTo>

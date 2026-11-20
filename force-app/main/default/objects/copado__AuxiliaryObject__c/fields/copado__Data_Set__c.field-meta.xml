@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>Lookup to Data Set to use in StepEdition component in deployment page.</description>
-    <externalId>false</externalId>
     <label>Data Set</label>
     <referenceTo>copado__Data_Set__c</referenceTo>
     <relationshipLabel>AuxiliaryObjects</relationshipLabel>

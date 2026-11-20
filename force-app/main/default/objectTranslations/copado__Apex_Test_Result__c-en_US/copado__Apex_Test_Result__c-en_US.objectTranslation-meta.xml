@@ -3,11 +3,11 @@
     <layouts>
         <layout>Apex Test Layout</layout>
         <sections>
-            <label></label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Details --></label>
             <section>Details</section>
         </sections>
     </layouts>

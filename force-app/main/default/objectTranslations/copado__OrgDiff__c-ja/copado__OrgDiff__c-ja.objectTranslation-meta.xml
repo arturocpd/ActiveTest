@@ -2,22 +2,22 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Org Difference --></value>
     </caseValues>
     <fieldSets>
-        <label></label>
+        <label><!-- Copado Header Fields --></label>
         <name>copado__Copado_Header_Fields</name>
     </fieldSets>
     <layouts>
         <layout>OrgDiff Layout</layout>
         <sections>
-            <label>カスタムリンク</label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
     </layouts>
-    <nameFieldLabel></nameFieldLabel>
+    <nameFieldLabel><!-- Org Difference Name --></nameFieldLabel>
     <validationRules>
-        <errorMessage></errorMessage>
+        <errorMessage><!-- The Org&apos;s to be compared can not be the same. --></errorMessage>
         <name>copado__Should_be_differents</name>
     </validationRules>
 </CustomObjectTranslation>

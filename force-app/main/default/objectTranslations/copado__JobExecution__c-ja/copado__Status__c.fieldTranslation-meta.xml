@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label></label>
+    <label><!-- Status --></label>
     <name>copado__Status__c</name>
     <picklistValues>
         <masterLabel>Canceled</masterLabel>
-        <translation>キャンセル済</translation>
+        <translation><!-- Canceled --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Error</masterLabel>
-        <translation>エラー</translation>
+        <translation><!-- Error --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>In Progress</masterLabel>
-        <translation>進行中</translation>
+        <translation><!-- In Progress --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Not Started</masterLabel>
-        <translation>未開始</translation>
+        <translation><!-- Not Started --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Successful</masterLabel>
-        <translation>成功</translation>
+        <translation><!-- Successful --></translation>
     </picklistValues>
 </CustomFieldTranslation>

@@ -3,7 +3,6 @@
     <fullName>copado__Member__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Member</label>
     <referenceTo>User</referenceTo>
     <relationshipName>Team_Members</relationshipName>

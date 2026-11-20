@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>Lookup field to the deployment that triggered the result.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Deployment Parent object that trigger the execution. (for legacy)</inlineHelpText>
     <label>Deployment</label>
     <referenceTo>copado__Deployment__c</referenceTo>

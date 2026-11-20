@@ -3,7 +3,6 @@
     <fullName>copado__Target_Dev_Hub_Org__c</fullName>
     <deleteConstraint>Restrict</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Copado org credential for the dev hub which will be used to create and store the package and its versions</inlineHelpText>
     <label>Target Dev Hub Org</label>
     <lookupFilter>

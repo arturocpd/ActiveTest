@@ -3,7 +3,6 @@
     <fullName>copado__Validated_Date__c</fullName>
     <deprecated>false</deprecated>
     <description>Latest OAuth authentication validation date.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Latest OAuth authentication validation date.</inlineHelpText>
     <label>Validated Date</label>
     <required>false</required>

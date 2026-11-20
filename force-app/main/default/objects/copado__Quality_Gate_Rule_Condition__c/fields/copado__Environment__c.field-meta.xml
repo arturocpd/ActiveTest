@@ -3,7 +3,6 @@
     <fullName>copado__Environment__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Environment where this Quality Gate Condition will be evaluated. If no Pipeline is defined, this Condition will apply to all Pipelines where this Environment is connected to.</inlineHelpText>
     <label>Environment</label>
     <referenceTo>copado__Environment__c</referenceTo>

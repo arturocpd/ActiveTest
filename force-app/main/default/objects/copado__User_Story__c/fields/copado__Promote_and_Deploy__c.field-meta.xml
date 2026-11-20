@@ -3,7 +3,6 @@
     <fullName>copado__Promote_and_Deploy__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>When this checkbox is checked, a promotion and deployment of this User Story will be started.</inlineHelpText>
     <label>Promote and Deploy</label>
     <trackHistory>false</trackHistory>

@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>The latest result associated with the job step.</description>
-    <externalId>false</externalId>
     <label>Last Result</label>
     <referenceTo>copado__Result__c</referenceTo>
     <relationshipLabel>Job Steps</relationshipLabel>

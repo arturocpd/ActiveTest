@@ -3,7 +3,6 @@
     <fullName>copado__Deployment_Flow__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>If working with Copado Change Management, the Project must be linked to a Pipeline.</inlineHelpText>
     <label>Pipeline</label>
     <referenceTo>copado__Deployment_Flow__c</referenceTo>

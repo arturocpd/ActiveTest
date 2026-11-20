@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label></label>
+    <label><!-- Dependency Status --></label>
     <name>copado__Dependency_Status__c</name>
     <picklistValues>
         <masterLabel>Committed</masterLabel>
@@ -20,7 +20,7 @@
     </picklistValues>
     <picklistValues>
         <masterLabel>Never</masterLabel>
-        <translation>なし（Never)</translation>
+        <translation><!-- Never --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>New</masterLabel>

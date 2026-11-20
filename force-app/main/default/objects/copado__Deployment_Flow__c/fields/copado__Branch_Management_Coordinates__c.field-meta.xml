@@ -3,7 +3,6 @@
     <fullName>copado__Branch_Management_Coordinates__c</fullName>
     <deprecated>false</deprecated>
     <description>This field is used to store the Branch Management Step locations of each box. This field should not be added to the page layout.</description>
-    <externalId>false</externalId>
     <label>Branch Management Coordinates</label>
     <length>50000</length>
     <trackHistory>false</trackHistory>

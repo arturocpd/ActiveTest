@@ -2,7 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>copado__Attachment_Options__c</fullName>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Insert, update or remove attachments of the records that will get deployed.</inlineHelpText>
     <label>Attachment Actions</label>
     <required>false</required>

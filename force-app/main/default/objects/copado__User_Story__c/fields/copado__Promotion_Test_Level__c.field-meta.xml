@@ -3,7 +3,6 @@
     <fullName>copado__Promotion_Test_Level__c</fullName>
     <deprecated>false</deprecated>
     <description>Test Level to apply in the deployment of the User Story.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Test Level to apply in the deployment of the User Story.</inlineHelpText>
     <label>Promotion Test Level</label>
     <required>false</required>

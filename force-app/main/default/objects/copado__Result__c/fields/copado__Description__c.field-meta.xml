@@ -3,7 +3,6 @@
     <fullName>copado__Description__c</fullName>
     <deprecated>false</deprecated>
     <description>Description of the result record.</description>
-    <externalId>false</externalId>
     <label>Description</label>
     <length>32768</length>
     <trackFeedHistory>false</trackFeedHistory>

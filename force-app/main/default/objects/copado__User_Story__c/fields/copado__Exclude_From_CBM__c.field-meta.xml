@@ -4,7 +4,6 @@
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
     <description>If checked, this user story will not be included in the count of user stories ahead and behind.</description>
-    <externalId>false</externalId>
     <inlineHelpText>If checked, this user story will not be included in the count of user stories ahead and behind.</inlineHelpText>
     <label>Exclude from Pipelines</label>
     <trackHistory>false</trackHistory>

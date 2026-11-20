@@ -3,7 +3,6 @@
     <fullName>cmcSf__Skip_Validation__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Indicates if validation was skipped during package version generation.</inlineHelpText>
     <label>Skip Validation</label>
     <trackTrending>false</trackTrending>

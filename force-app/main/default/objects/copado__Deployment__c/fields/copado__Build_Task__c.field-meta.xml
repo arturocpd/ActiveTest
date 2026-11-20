@@ -3,7 +3,6 @@
     <fullName>copado__Build_Task__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Build Task</label>
     <referenceTo>copado__Build_Task__c</referenceTo>
     <relationshipLabel>Deployments</relationshipLabel>

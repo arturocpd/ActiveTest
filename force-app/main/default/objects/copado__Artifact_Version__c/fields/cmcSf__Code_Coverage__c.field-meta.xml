@@ -3,7 +3,6 @@
     <fullName>cmcSf__Code_Coverage__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Calculate and store the code coverage percentage by running the Apex tests included in this package version.</inlineHelpText>
     <label>Code Coverage</label>
     <trackTrending>false</trackTrending>

@@ -3,7 +3,6 @@
     <fullName>copado__Git_Operation__c</fullName>
     <deprecated>false</deprecated>
     <description>The Git operation executed by the Copado.</description>
-    <externalId>false</externalId>
     <inlineHelpText>The Git operation executed by the Copado.</inlineHelpText>
     <label>Git Operation</label>
     <required>false</required>

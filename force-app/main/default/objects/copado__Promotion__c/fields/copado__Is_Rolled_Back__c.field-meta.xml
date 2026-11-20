@@ -3,7 +3,6 @@
     <fullName>copado__Is_Rolled_Back__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Is Rolled Back?</label>
     <trackTrending>false</trackTrending>
     <type>Checkbox</type>

@@ -3,7 +3,6 @@
     <fullName>copado__Project__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Select a project linked to an active pipeline.</inlineHelpText>
     <label>Project</label>
     <referenceTo>copado__Project__c</referenceTo>

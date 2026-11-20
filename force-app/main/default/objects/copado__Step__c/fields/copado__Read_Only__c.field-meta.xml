@@ -3,7 +3,6 @@
     <fullName>copado__Read_Only__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Read Only</label>
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>

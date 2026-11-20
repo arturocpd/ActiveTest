@@ -2,16 +2,16 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Continuous Integration --></value>
     </caseValues>
     <fieldSets>
-        <label></label>
+        <label><!-- CustomFields --></label>
         <name>copado__CustomFields</name>
     </fieldSets>
     <layouts>
         <layout>Continuous Integration Layout</layout>
         <sections>
-            <label>カスタムリンク</label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
         <sections>
@@ -23,9 +23,9 @@
             <section>Pre/Post-Build Automation</section>
         </sections>
     </layouts>
-    <nameFieldLabel></nameFieldLabel>
+    <nameFieldLabel><!-- Continuous Integration Name --></nameFieldLabel>
     <sharingReasons>
-        <label></label>
+        <label><!-- Continuous Integration Permission --></label>
         <name>copado__ContinuousIntegrationPermission</name>
     </sharingReasons>
 </CustomObjectTranslation>

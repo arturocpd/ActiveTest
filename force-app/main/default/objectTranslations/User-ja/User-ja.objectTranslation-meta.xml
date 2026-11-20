@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <fieldSets>
-        <label></label>
+        <label><!-- Copado License Manager --></label>
         <name>copado__License_Manager</name>
     </fieldSets>
     <layouts>
         <layout>Community Member Layout</layout>
         <layoutType>CommunityMemberLayout</layoutType>
         <sections>
-            <label></label>
+            <label><!-- Basic Information --></label>
             <section>Basic Information</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Chatter Settings --></label>
             <section>Chatter Settings</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Language And Locale Settings --></label>
             <section>Language And Locale Settings</section>
         </sections>
     </layouts>
@@ -24,15 +24,15 @@
         <layout>User Profile Layout</layout>
         <layoutType>UserAlt</layoutType>
         <sections>
-            <label></label>
+            <label><!-- About --></label>
             <section>About</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Background --></label>
             <section>Background</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Contact --></label>
             <section>Contact</section>
         </sections>
     </layouts>

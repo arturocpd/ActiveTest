@@ -3,7 +3,6 @@
     <fullName>copado__Description__c</fullName>
     <deprecated>false</deprecated>
     <description>A description of the job template.</description>
-    <externalId>false</externalId>
     <label>Description</label>
     <length>32768</length>
     <trackHistory>false</trackHistory>

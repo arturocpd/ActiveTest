@@ -3,7 +3,6 @@
     <fullName>copado__Project__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Project</label>
     <referenceTo>copado__Project__c</referenceTo>
     <relationshipLabel>Sprints</relationshipLabel>

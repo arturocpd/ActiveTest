@@ -2,7 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>copado__Execution_Sequence__c</fullName>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Defines if the automation should be executed before or after the event.</inlineHelpText>
     <label>Execution Sequence</label>
     <required>false</required>

@@ -3,7 +3,6 @@
     <fullName>copado__Source_Org__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>The Environment where the data was extracted from in the last generation of Data Sets.</inlineHelpText>
     <label>Data Source Environment</label>
     <referenceTo>copado__Org__c</referenceTo>

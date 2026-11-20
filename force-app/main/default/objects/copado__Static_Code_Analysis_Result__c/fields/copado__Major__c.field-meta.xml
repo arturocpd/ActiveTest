@@ -3,7 +3,6 @@
     <fullName>copado__Major__c</fullName>
     <deprecated>false</deprecated>
     <description>Number of Major violations</description>
-    <externalId>false</externalId>
     <label>Major</label>
     <summaryFilterItems>
         <field>copado__Static_Code_Analysis_Violation__c.copado__Severity__c</field>

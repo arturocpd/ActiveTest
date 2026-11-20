@@ -2,7 +2,7 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Compliance Rule Criteria --></value>
     </caseValues>
     <layouts>
         <layout>Compliance Rule Criteria Layout</layout>
@@ -15,9 +15,9 @@
             <section>Criteria Details</section>
         </sections>
         <sections>
-            <label>カスタムリンク</label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
     </layouts>
-    <nameFieldLabel></nameFieldLabel>
+    <nameFieldLabel><!-- Compliance Rule Criteria Name --></nameFieldLabel>
 </CustomObjectTranslation>

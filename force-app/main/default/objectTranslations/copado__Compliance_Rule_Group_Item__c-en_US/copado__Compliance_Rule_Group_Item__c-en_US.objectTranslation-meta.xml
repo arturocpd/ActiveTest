@@ -3,12 +3,12 @@
     <layouts>
         <layout>Compliance Rule Group Item Layout</layout>
         <sections>
-            <label></label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
     </layouts>
     <validationRules>
-        <errorMessage></errorMessage>
+        <errorMessage><!-- This compliance rule does not have any criteria. A compliance rule needs at least one valid criteria row in order to be added to a Compliance Rule Group. --></errorMessage>
         <name>copado__RuleNeedsValidCriteriaToBeAddedToGroup</name>
     </validationRules>
 </CustomObjectTranslation>

@@ -3,7 +3,6 @@
     <fullName>copado__Peer_Reviewer__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Peer Reviewer</label>
     <referenceTo>User</referenceTo>
     <relationshipLabel>Test Scripts</relationshipLabel>

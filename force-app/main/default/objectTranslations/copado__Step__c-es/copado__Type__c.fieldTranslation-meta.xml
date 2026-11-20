@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label></label>
+    <label><!-- Type --></label>
     <name>copado__Type__c</name>
     <picklistValues>
         <masterLabel>Apex</masterLabel>
-        <translation></translation>
+        <translation><!-- Apex --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Automation</masterLabel>
-        <translation></translation>
+        <translation><!-- Automation --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Bulk Data</masterLabel>
-        <translation></translation>
+        <translation><!-- Bulk Data --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Custom Settings</masterLabel>
-        <translation></translation>
+        <translation><!-- Custom Settings --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Data</masterLabel>
-        <translation></translation>
+        <translation><!-- Data --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Data Template</masterLabel>
-        <translation></translation>
+        <translation><!-- Data Template --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Delete MetaData</masterLabel>
-        <translation></translation>
+        <translation><!-- Delete MetaData --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Full Permission Sets</masterLabel>
-        <translation></translation>
+        <translation><!-- Full Permission Sets --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Full Profiles</masterLabel>
-        <translation></translation>
+        <translation><!-- Full Profiles --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Function</masterLabel>
-        <translation></translation>
+        <translation><!-- Function --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Git MetaData</masterLabel>
-        <translation></translation>
+        <translation><!-- Git MetaData --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>MetaData</masterLabel>
-        <translation></translation>
+        <translation><!-- MetaData --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Test</masterLabel>
-        <translation></translation>
+        <translation><!-- Test --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Translations</masterLabel>
-        <translation></translation>
+        <translation><!-- Translations --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>URL Callout</masterLabel>
-        <translation></translation>
+        <translation><!-- URL Callout --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Users</masterLabel>
-        <translation></translation>
+        <translation><!-- Users --></translation>
     </picklistValues>
 </CustomFieldTranslation>

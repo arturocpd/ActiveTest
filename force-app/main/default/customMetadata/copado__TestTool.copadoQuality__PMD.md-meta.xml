@@ -20,6 +20,6 @@
     </values>
     <values>
         <field>copado__UserStoryBundleTestsUnifierLogic__c</field>
-        <value xsi:type="xsd:string">copadoQuality.UserStoryBundlePMDTestsUnifier</value>
+        <value xsi:nil="true"/>
     </values>
 </CustomMetadata>

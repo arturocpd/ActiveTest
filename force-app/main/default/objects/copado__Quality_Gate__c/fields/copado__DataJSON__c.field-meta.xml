@@ -3,7 +3,6 @@
     <fullName>copado__DataJSON__c</fullName>
     <deprecated>false</deprecated>
     <description>If &apos;URL Callout&apos; is selected as the type, this stores the details of that callout.</description>
-    <externalId>false</externalId>
     <inlineHelpText>If &apos;URL Callout&apos; is selected as the type, this stores the details of that callout.</inlineHelpText>
     <label>DataJSON</label>
     <length>131072</length>

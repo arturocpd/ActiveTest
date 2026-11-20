@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>Promotion containing the most recent validation Deployment.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Promotion containing the most recent validation Deployment.</inlineHelpText>
     <label>Last Validation Promotion</label>
     <referenceTo>copado__Promotion__c</referenceTo>

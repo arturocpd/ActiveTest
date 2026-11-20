@@ -3,7 +3,6 @@
     <fullName>copado__Disable_Re_Create_Feature_Branch_in_US__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Disable Re-Create Feature Branch in US</label>
     <trackTrending>false</trackTrending>
     <type>Checkbox</type>

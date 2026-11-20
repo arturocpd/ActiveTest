@@ -3,7 +3,6 @@
     <fullName>copado__Last_Result__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Latest result with more details of the job execution.</inlineHelpText>
     <label>Last Result</label>
     <referenceTo>copado__Result__c</referenceTo>

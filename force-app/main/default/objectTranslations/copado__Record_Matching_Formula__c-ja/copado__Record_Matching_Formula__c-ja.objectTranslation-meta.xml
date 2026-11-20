@@ -2,18 +2,18 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Record Matching Formula --></value>
     </caseValues>
     <layouts>
         <layout>Record Matching Formula Layout</layout>
         <sections>
-            <label>カスタムリンク</label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
     </layouts>
-    <nameFieldLabel></nameFieldLabel>
+    <nameFieldLabel><!-- Record Matching Formula Name --></nameFieldLabel>
     <validationRules>
-        <errorMessage></errorMessage>
+        <errorMessage><!-- You can not change the Configuration Schema Credential once the value is selected. --></errorMessage>
         <name>copado__RestrictSchemaCredentialModification</name>
     </validationRules>
 </CustomObjectTranslation>

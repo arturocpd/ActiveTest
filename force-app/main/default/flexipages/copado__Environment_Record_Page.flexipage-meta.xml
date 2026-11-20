@@ -208,6 +208,16 @@
                     <name>uiBehavior</name>
                     <value>none</value>
                 </fieldInstanceProperties>
+                <fieldItem>Record.copado__Connection_Behavior__c</fieldItem>
+                <identifier>RecordConnection_Behavior_cField1</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
                 <fieldItem>Record.copado__Latest_Deployment__c</fieldItem>
                 <identifier>RecordLatest_Deployment_cField1</identifier>
             </fieldInstance>
@@ -402,75 +412,6 @@
                 <identifier>force_relatedListSingleContainer21</identifier>
             </componentInstance>
         </itemInstances>
-        <itemInstances>
-            <componentInstance>
-                <componentInstanceProperties>
-                    <name>actionNames</name>
-                    <valueList>
-                        <valueListItems>
-                            <value>New</value>
-                        </valueListItems>
-                    </valueList>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>maxRecordsToDisplay</name>
-                    <value>10</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>parentFieldApiName</name>
-                    <value>copado__Environment__c.Id</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>relatedListApiName</name>
-                    <value>copado__Pipeline_Actions__r</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>relatedListDisplayType</name>
-                    <value>ADVGRID</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>relatedListFieldAliases</name>
-                    <valueList>
-                        <valueListItems>
-                            <value>NAME</value>
-                        </valueListItems>
-                        <valueListItems>
-                            <value>copado__Action__c</value>
-                        </valueListItems>
-                        <valueListItems>
-                            <value>copado__Job_Template__c</value>
-                        </valueListItems>
-                        <valueListItems>
-                            <value>copado__Pipeline__c</value>
-                        </valueListItems>
-                        <valueListItems>
-                            <value>copado__Default__c</value>
-                        </valueListItems>
-                        <valueListItems>
-                            <value>copado__Overrides_Pipeline_Action__c</value>
-                        </valueListItems>
-                    </valueList>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>relatedListLabel</name>
-                    <value>{!$Label.copado__PIPELINE_ACTIONS_OVERRIDE}</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>showActionBar</name>
-                    <value>true</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>sortFieldAlias</name>
-                    <value>__DEFAULT__</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>sortFieldOrder</name>
-                    <value>Default</value>
-                </componentInstanceProperties>
-                <componentName>lst:dynamicRelatedList</componentName>
-                <identifier>lst_dynamicRelatedList</identifier>
-            </componentInstance>
-        </itemInstances>
         <name>Facet-72651ffd-f73f-46f5-be53-e35812fc6c78</name>
         <type>Facet</type>
     </flexiPageRegions>
@@ -548,28 +489,6 @@
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
-                    <name>locationId</name>
-                    <value>CCM.Environment.ExtensionDetails</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>locationOnly</name>
-                    <value>false</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>requiredInformation</name>
-                    <value>Platform</value>
-                </componentInstanceProperties>
-                <componentName>copado:dynamicUISectionContainer</componentName>
-                <identifier>c_dynamicUISectionContainer</identifier>
-            </componentInstance>
-        </itemInstances>
-        <name>Facet-baec7362-8de4-4467-bd0a-90ff32f1d209</name>
-        <type>Facet</type>
-    </flexiPageRegions>
-    <flexiPageRegions>
-        <itemInstances>
-            <componentInstance>
-                <componentInstanceProperties>
                     <name>parentFieldApiName</name>
                     <value>copado__Environment__c.Id</value>
                 </componentInstanceProperties>
@@ -594,6 +513,36 @@
             </componentInstance>
         </itemInstances>
         <name>Facet-eb67719d-440f-49b4-b91d-e6cd7b9022a0</name>
+        <type>Facet</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>parentFieldApiName</name>
+                    <value>copado__Environment__c.Id</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>relatedListApiName</name>
+                    <value>copado__Pipeline_Actions__r</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>relatedListComponentOverride</name>
+                    <value>ADVGRID</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>rowsToDisplay</name>
+                    <value>10</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>showActionBar</name>
+                    <value>true</value>
+                </componentInstanceProperties>
+                <componentName>force:relatedListSingleContainer</componentName>
+                <identifier>force_relatedListSingleContainer16</identifier>
+            </componentInstance>
+        </itemInstances>
+        <name>Facet-3e07a079-352d-4c0b-9c2c-40e63b054dd4</name>
         <type>Facet</type>
     </flexiPageRegions>
     <flexiPageRegions>
@@ -651,7 +600,7 @@
                 </componentInstanceProperties>
                 <componentInstanceProperties>
                     <name>title</name>
-                    <value>{!$Label.copado__Environment_Variables}</value>
+                    <value>{!$Label.copado__Environment_Variable}</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
                 <identifier>flexipage_tab</identifier>
@@ -675,28 +624,28 @@
             <componentInstance>
                 <componentInstanceProperties>
                     <name>body</name>
-                    <value>Facet-baec7362-8de4-4467-bd0a-90ff32f1d209</value>
+                    <value>Facet-eb67719d-440f-49b4-b91d-e6cd7b9022a0</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
                     <name>title</name>
-                    <value>{!$Label.copado__EXTENSION_DETAILS}</value>
+                    <value>{!$Label.copado__NOTES}</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
-                <identifier>flexipage_tab2</identifier>
+                <identifier>flexipage_tab8</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
                     <name>body</name>
-                    <value>Facet-eb67719d-440f-49b4-b91d-e6cd7b9022a0</value>
+                    <value>Facet-3e07a079-352d-4c0b-9c2c-40e63b054dd4</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
                     <name>title</name>
-                    <value>{!$Label.copado__NOTES_ATTACHMENTS}</value>
+                    <value>{!$Label.copado__PIPELINE_ACTIONS_OVERRIDE}</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
-                <identifier>flexipage_tab8</identifier>
+                <identifier>flexipage_tab9</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-3ee44fd6-818e-41cc-9238-cd6cb704a208</name>
@@ -819,16 +768,6 @@
                 </fieldInstanceProperties>
                 <fieldItem>Record.copado__Run_all_tests__c</fieldItem>
                 <identifier>RecordRun_all_tests__cField</identifier>
-            </fieldInstance>
-        </itemInstances>
-        <itemInstances>
-            <fieldInstance>
-                <fieldInstanceProperties>
-                    <name>uiBehavior</name>
-                    <value>none</value>
-                </fieldInstanceProperties>
-                <fieldItem>Record.copado__Run_specified_tests__c</fieldItem>
-                <identifier>RecordRun_specified_tests_cField</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
@@ -1741,7 +1680,7 @@
                 </componentInstanceProperties>
                 <componentInstanceProperties>
                     <name>title</name>
-                    <value>{!$Label.copado__Environment_Variables}</value>
+                    <value>{!$Label.copado__Environment_Variable}</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
                 <identifier>customTab3</identifier>
@@ -1783,7 +1722,7 @@
                 </componentInstanceProperties>
                 <componentInstanceProperties>
                     <name>title</name>
-                    <value>{!$Label.copado__NOTES_ATTACHMENTS}</value>
+                    <value>{!$Label.copado__NOTES}</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
                 <identifier>flexipage_tab1</identifier>

@@ -3,7 +3,6 @@
     <fullName>copado__Promotion_Job_Template_Override__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Promotion Job Template Override</label>
     <referenceTo>copado__JobTemplate__c</referenceTo>
     <relationshipLabel>Environments</relationshipLabel>

@@ -3,7 +3,6 @@
     <fullName>copado__Manual_Tests_Passed__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Manual Tests Passed</label>
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>

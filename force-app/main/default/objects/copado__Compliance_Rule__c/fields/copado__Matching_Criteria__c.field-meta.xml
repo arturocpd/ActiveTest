@@ -2,7 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>copado__Matching_Criteria__c</fullName>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Operator between Record Count Criteria and Record Count</inlineHelpText>
     <label>Matching Criteria</label>
     <required>false</required>

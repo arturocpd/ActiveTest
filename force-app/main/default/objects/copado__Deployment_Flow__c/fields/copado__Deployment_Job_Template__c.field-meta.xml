@@ -3,7 +3,6 @@
     <fullName>copado__Deployment_Job_Template__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Deployment Job Template</label>
     <referenceTo>copado__JobTemplate__c</referenceTo>
     <relationshipLabel>Pipelines (Deployment Job Template)</relationshipLabel>

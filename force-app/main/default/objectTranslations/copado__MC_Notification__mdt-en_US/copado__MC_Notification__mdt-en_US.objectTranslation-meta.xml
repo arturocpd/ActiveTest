@@ -2,18 +2,18 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value></value>
+        <value><!-- MC Notification --></value>
     </caseValues>
     <caseValues>
         <plural>true</plural>
-        <value></value>
+        <value><!-- MC Notification --></value>
     </caseValues>
     <layouts>
         <layout>MC Notification Layout</layout>
         <sections>
-            <label></label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
     </layouts>
-    <startsWith></startsWith>
+    <startsWith><!-- Consonant --></startsWith>
 </CustomObjectTranslation>

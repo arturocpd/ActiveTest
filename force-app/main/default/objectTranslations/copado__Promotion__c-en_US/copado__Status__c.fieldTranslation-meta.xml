@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label></label>
+    <label><!-- Status --></label>
     <name>copado__Status__c</name>
     <picklistValues>
         <masterLabel>Cancelled</masterLabel>
-        <translation></translation>
+        <translation><!-- Cancelled --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Completed</masterLabel>
-        <translation></translation>
+        <translation><!-- Completed --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Completed with errors</masterLabel>
-        <translation></translation>
+        <translation><!-- Completed with errors --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Conflicts Resolved</masterLabel>
-        <translation></translation>
+        <translation><!-- Conflicts Resolved --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Draft</masterLabel>
-        <translation></translation>
+        <translation><!-- Draft --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>In Progress</masterLabel>
-        <translation></translation>
+        <translation><!-- In Progress --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Merge Conflict</masterLabel>
-        <translation></translation>
+        <translation><!-- Merge Conflict --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Scheduled</masterLabel>
-        <translation></translation>
+        <translation><!-- Scheduled --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Validated</masterLabel>
-        <translation></translation>
+        <translation><!-- Validated --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Validation failed</masterLabel>
-        <translation></translation>
+        <translation><!-- Validation failed --></translation>
     </picklistValues>
 </CustomFieldTranslation>

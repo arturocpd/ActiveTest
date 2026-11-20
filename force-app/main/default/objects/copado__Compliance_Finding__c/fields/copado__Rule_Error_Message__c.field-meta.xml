@@ -3,7 +3,6 @@
     <fullName>copado__Rule_Error_Message__c</fullName>
     <deprecated>false</deprecated>
     <description>This field is populated with error message from its Compliance Rule Error Message</description>
-    <externalId>false</externalId>
     <label>Rule Error Message</label>
     <length>32768</length>
     <trackTrending>false</trackTrending>

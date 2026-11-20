@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>Most recent validation Deployment for the User Story.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Most recent validation Deployment for the User Story.</inlineHelpText>
     <label>Last Validation Deployment</label>
     <referenceTo>copado__Deployment__c</referenceTo>

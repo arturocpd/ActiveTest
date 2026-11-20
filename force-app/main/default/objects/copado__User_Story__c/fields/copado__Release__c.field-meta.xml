@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>Product version or release where this User Story will be released.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Product version or release where this User Story will be released.</inlineHelpText>
     <label>Release</label>
     <referenceTo>copado__Release__c</referenceTo>

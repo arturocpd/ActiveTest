@@ -2,7 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>copado__CodeScan_Version__c</fullName>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Cloud version requires a CodeScan Cloud license.
 On-premise SonarQube requires your SonarQube instance to be accesible through internet.</inlineHelpText>
     <label>CodeScan Version</label>

@@ -3,7 +3,6 @@
     <fullName>copado__No_Namespace__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Enables the package creation with no namespace; available only for unlocked packages.</inlineHelpText>
     <label>No Namespace</label>
     <trackHistory>false</trackHistory>

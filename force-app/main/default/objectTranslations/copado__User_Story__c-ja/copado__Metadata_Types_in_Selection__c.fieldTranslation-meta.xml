@@ -1,330 +1,330 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <help>ユーザーストーリー選択に記載されているコンポーネントのメタデータの種類。この値はCopadoによって自動的に更新されます。</help>
-    <label></label>
+    <label><!-- Metadata Types in Selection --></label>
     <name>copado__Metadata_Types_in_Selection__c</name>
     <picklistValues>
         <masterLabel>ActionLinkGroupTemplate</masterLabel>
-        <translation>アクショングループテンプレート</translation>
+        <translation><!-- ActionLinkGroupTemplate --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>AnalyticSnapshot</masterLabel>
-        <translation>分析スナップショット</translation>
+        <translation><!-- AnalyticSnapshot --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>ApexClass</masterLabel>
-        <translation>Apexクラス</translation>
+        <translation><!-- ApexClass --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>ApexComponent</masterLabel>
-        <translation>Apexコンポーネント</translation>
+        <translation><!-- ApexComponent --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>ApexPage</masterLabel>
-        <translation>Apexページ</translation>
+        <translation><!-- ApexPage --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>ApexTrigger</masterLabel>
-        <translation>Apexトリガー</translation>
+        <translation><!-- ApexTrigger --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>AppMenu</masterLabel>
-        <translation>アプリメニュー</translation>
+        <translation><!-- AppMenu --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>ApprovalProcess</masterLabel>
-        <translation>承認プロセス</translation>
+        <translation><!-- ApprovalProcess --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>AssignmentRule</masterLabel>
-        <translation>割り当てルール</translation>
+        <translation><!-- AssignmentRule --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>AssignmentRules</masterLabel>
-        <translation>割り当てルール</translation>
+        <translation><!-- AssignmentRules --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>AuraDefinitionBundle</masterLabel>
-        <translation>Aura定義バンドル</translation>
+        <translation><!-- AuraDefinitionBundle --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>AuthProvider</masterLabel>
-        <translation>Authプロバイダー</translation>
+        <translation><!-- AuthProvider --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>AutoResponseRule</masterLabel>
-        <translation>自動応答ルール</translation>
+        <translation><!-- AutoResponseRule --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>AutoResponseRules</masterLabel>
-        <translation>自動応答ルール</translation>
+        <translation><!-- AutoResponseRules --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>BusinessProcess</masterLabel>
-        <translation>ビジネスプロセス</translation>
+        <translation><!-- BusinessProcess --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>CallCenter</masterLabel>
-        <translation>コールセンター</translation>
+        <translation><!-- CallCenter --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Certificate</masterLabel>
-        <translation>証明書</translation>
+        <translation><!-- Certificate --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>ChannelLayout</masterLabel>
-        <translation>チャネルレイアウト</translation>
+        <translation><!-- ChannelLayout --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Community</masterLabel>
-        <translation>コミュニティー</translation>
+        <translation><!-- Community --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>CompactLayout</masterLabel>
-        <translation>コンパクトレイアウト</translation>
+        <translation><!-- CompactLayout --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>ConnectedApp</masterLabel>
-        <translation>接続済みアプリ</translation>
+        <translation><!-- ConnectedApp --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>CorsWhitelistOrigin</masterLabel>
-        <translation>CORSホワイトリストオリジン</translation>
+        <translation><!-- CorsWhitelistOrigin --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>CustomApplication</masterLabel>
-        <translation>カスタムアプリケーション</translation>
+        <translation><!-- CustomApplication --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>CustomField</masterLabel>
-        <translation>カスタム項目</translation>
+        <translation><!-- CustomField --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>CustomLabel</masterLabel>
-        <translation>カスタムラベル</translation>
+        <translation><!-- CustomLabel --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>CustomLabels</masterLabel>
-        <translation>カスタムラベル</translation>
+        <translation><!-- CustomLabels --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>CustomMetadata</masterLabel>
-        <translation>カスタムメタデータ</translation>
+        <translation><!-- CustomMetadata --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>CustomObject</masterLabel>
-        <translation>カスタムオブジェクト</translation>
+        <translation><!-- CustomObject --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>CustomObjectTranslation</masterLabel>
-        <translation>カスタムオブジェクト翻訳</translation>
+        <translation><!-- CustomObjectTranslation --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>CustomPageWebLink</masterLabel>
-        <translation>カスタムページウェブリンク</translation>
+        <translation><!-- CustomPageWebLink --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>CustomPermission</masterLabel>
-        <translation>カスタム権限</translation>
+        <translation><!-- CustomPermission --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>CustomSite</masterLabel>
-        <translation>カスタムサイト</translation>
+        <translation><!-- CustomSite --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>CustomTab</masterLabel>
-        <translation>カスタムタブ</translation>
+        <translation><!-- CustomTab --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Dashboard</masterLabel>
-        <translation>ダッシュボード</translation>
+        <translation><!-- Dashboard --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>DataCategoryGroup</masterLabel>
-        <translation>データカテゴリーグループ</translation>
+        <translation><!-- DataCategoryGroup --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>DelegateGroup</masterLabel>
-        <translation>デリゲートグループ</translation>
+        <translation><!-- DelegateGroup --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Document</masterLabel>
-        <translation>ドキュメント</translation>
+        <translation><!-- Document --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>EmailTemplate</masterLabel>
-        <translation>メールテンプレート</translation>
+        <translation><!-- EmailTemplate --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>EscalationRule</masterLabel>
-        <translation>エスカレーションルール</translation>
+        <translation><!-- EscalationRule --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>EscalationRules</masterLabel>
-        <translation>エスカレーションルール</translation>
+        <translation><!-- EscalationRules --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>ExternalDataSource</masterLabel>
-        <translation>外部データソース</translation>
+        <translation><!-- ExternalDataSource --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>FieldSet</masterLabel>
-        <translation>フィールドセット</translation>
+        <translation><!-- FieldSet --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>FlexiPaFlow</masterLabel>
-        <translation></translation>
+        <translation><!-- FlexiPaFlow --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>FlowDefinitioGroup</masterLabel>
-        <translation>フロー定義グループ</translation>
+        <translation><!-- FlowDefinitioGroup --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>HomePageComponent</masterLabel>
-        <translation>ホームページコンポーネント</translation>
+        <translation><!-- HomePageComponent --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>HomePageLayout</masterLabel>
-        <translation>ホームページレイアウト</translation>
+        <translation><!-- HomePageLayout --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>InstalledPackageLayout</masterLabel>
-        <translation>インストールパッケージレイアウト</translation>
+        <translation><!-- InstalledPackageLayout --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Letterhead</masterLabel>
-        <translation>レターヘッド</translation>
+        <translation><!-- Letterhead --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>ListView</masterLabel>
-        <translation>リストビュー</translation>
+        <translation><!-- ListView --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>MatchingRule</masterLabel>
-        <translation>マッチング・ルール</translation>
+        <translation><!-- MatchingRule --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>MatchingRules</masterLabel>
-        <translation>マッチング・ルール</translation>
+        <translation><!-- MatchingRules --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>NamedCredential</masterLabel>
-        <translation>名前付きクレデンシャル</translation>
+        <translation><!-- NamedCredential --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>PathAssistant</masterLabel>
-        <translation>パスアシスタント</translation>
+        <translation><!-- PathAssistant --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>PermissionSet</masterLabel>
-        <translation>権限セット</translation>
+        <translation><!-- PermissionSet --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>PlatformCachePartition</masterLabel>
-        <translation>プラットフォーム・キャッシュ・パーティション</translation>
+        <translation><!-- PlatformCachePartition --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>PostTemplate</masterLabel>
-        <translation>ポストテンプレート</translation>
+        <translation><!-- PostTemplate --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>ProfilQueue</masterLabel>
-        <translation>プロファイルキュー</translation>
+        <translation><!-- ProfilQueue --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>QuickAction</masterLabel>
-        <translation>クイックアクション</translation>
+        <translation><!-- QuickAction --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>RecordType</masterLabel>
-        <translation>レコードタイプ</translation>
+        <translation><!-- RecordType --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>RemoteSiteSettingReport</masterLabel>
-        <translation>リモートサイト設定レポート</translation>
+        <translation><!-- RemoteSiteSettingReport --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>ReportTyRole</masterLabel>
-        <translation>レポートの役割</translation>
+        <translation><!-- ReportTyRole --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>SamlSsoConfig</masterLabel>
-        <translation>SamlSsoコンフィグ</translation>
+        <translation><!-- SamlSsoConfig --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Scontrol</masterLabel>
-        <translation>コントロール</translation>
+        <translation><!-- Scontrol --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Settings</masterLabel>
-        <translation>設定</translation>
+        <translation><!-- Settings --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>SharingCriteriaRule</masterLabel>
-        <translation>共有基準ルール</translation>
+        <translation><!-- SharingCriteriaRule --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>SharingOwnerRule</masterLabel>
-        <translation>共有オーナールール</translation>
+        <translation><!-- SharingOwnerRule --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>SharingReason</masterLabel>
-        <translation>共有理由</translation>
+        <translation><!-- SharingReason --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>SharingRules</masterLabel>
-        <translation>共有ルール</translation>
+        <translation><!-- SharingRules --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>SiteDotCom</masterLabel>
-        <translation>サイトドットコム</translation>
+        <translation><!-- SiteDotCom --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>StaticResource</masterLabel>
-        <translation>静的リソース</translation>
+        <translation><!-- StaticResource --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>SynonymDictionary</masterLabel>
-        <translation>同義語辞書</translation>
+        <translation><!-- SynonymDictionary --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Translations</masterLabel>
-        <translation>翻訳</translation>
+        <translation><!-- Translations --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>ValidationRule</masterLabel>
-        <translation>検証ルール</translation>
+        <translation><!-- ValidationRule --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>WebLink</masterLabel>
-        <translation>ウェブリンク</translation>
+        <translation><!-- WebLink --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Workflow</masterLabel>
-        <translation>ワークフロー</translation>
+        <translation><!-- Workflow --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>WorkflowAlert</masterLabel>
-        <translation>ワークフローアラート</translation>
+        <translation><!-- WorkflowAlert --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>WorkflowFieldUpdate</masterLabel>
-        <translation>ワークフローフィールド更新</translation>
+        <translation><!-- WorkflowFieldUpdate --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>WorkflowOutboundMessage</masterLabel>
-        <translation>ワークフロー送信メッセージ</translation>
+        <translation><!-- WorkflowOutboundMessage --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>WorkflowRule</masterLabel>
-        <translation>ワークフロー ルール</translation>
+        <translation><!-- WorkflowRule --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>WorkflowSend</masterLabel>
-        <translation>ワークフロー送信</translation>
+        <translation><!-- WorkflowSend --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>WorkflowTask</masterLabel>
-        <translation>ワークフロー・タスク</translation>
+        <translation><!-- WorkflowTask --></translation>
     </picklistValues>
 </CustomFieldTranslation>

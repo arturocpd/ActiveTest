@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help>ソースアクションの実行が成功または失敗した後にオートメーションをトリガーするかどうかを定義します。</help>
-    <label></label>
+    <help><!-- Define if the automation should be triggered after a successful or failed execution of the source action --></help>
+    <label><!-- Source Action Status --></label>
     <name>copado__Source_Action_Status__c</name>
     <picklistValues>
         <masterLabel>Error</masterLabel>
-        <translation>エラー</translation>
+        <translation><!-- Error --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Successful</masterLabel>
-        <translation>成功</translation>
+        <translation><!-- Successful --></translation>
     </picklistValues>
 </CustomFieldTranslation>

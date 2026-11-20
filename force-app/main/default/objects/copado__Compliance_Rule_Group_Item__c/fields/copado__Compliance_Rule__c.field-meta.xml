@@ -2,7 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>copado__Compliance_Rule__c</fullName>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Compliance Rule</label>
     <referenceTo>copado__Compliance_Rule__c</referenceTo>
     <relationshipLabel>Compliance Rule Group Items</relationshipLabel>

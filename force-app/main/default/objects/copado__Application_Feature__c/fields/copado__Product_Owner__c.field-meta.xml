@@ -3,7 +3,6 @@
     <fullName>copado__Product_Owner__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Product Owner</label>
     <referenceTo>User</referenceTo>
     <relationshipName>FeatureOwners</relationshipName>

@@ -3,7 +3,6 @@
     <fullName>copado__Priority__c</fullName>
     <deprecated>false</deprecated>
     <description>Priority of the rule, where 1 is the highest, and 5 the lowest.</description>
-    <externalId>false</externalId>
     <label>Priority</label>
     <required>true</required>
     <trackTrending>false</trackTrending>

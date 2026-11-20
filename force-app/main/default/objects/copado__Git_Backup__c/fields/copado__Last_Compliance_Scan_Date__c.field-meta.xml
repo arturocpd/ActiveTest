@@ -3,7 +3,6 @@
     <fullName>copado__Last_Compliance_Scan_Date__c</fullName>
     <deprecated>false</deprecated>
     <description>Date of the last Compliance Scan of the Branch specified in the Git Snapshot.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Date of the last Compliance Scan of the Branch specified in the Git Snapshot.</inlineHelpText>
     <label>Last Compliance Scan Date</label>
     <required>false</required>

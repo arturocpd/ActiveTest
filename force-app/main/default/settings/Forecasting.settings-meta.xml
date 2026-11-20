@@ -61,6 +61,13 @@
         </weightedSourceCategories>
     </forecastingCategoryMappings>
     <forecastingCategoryMappings>
+        <forecastingItemCategoryApiName>customcategory</forecastingItemCategoryApiName>
+        <weightedSourceCategories>
+            <sourceCategoryApiName>custom category</sourceCategoryApiName>
+            <weight>1.0</weight>
+        </weightedSourceCategories>
+    </forecastingCategoryMappings>
+    <forecastingCategoryMappings>
         <forecastingItemCategoryApiName>commitforecast</forecastingItemCategoryApiName>
         <weightedSourceCategories>
             <sourceCategoryApiName>closed</sourceCategoryApiName>
@@ -78,6 +85,9 @@
             <weight>1.0</weight>
         </weightedSourceCategories>
     </forecastingCategoryMappings>
+    <forecastingSubmissionSettings>
+        <allowForecastingSubmissions>false</allowForecastingSubmissions>
+    </forecastingSubmissionSettings>
     <forecastingTypeSettings>
         <active>false</active>
         <displayedCategoryApiNames>closedonly</displayedCategoryApiNames>
@@ -87,6 +97,7 @@
         <forecastedCategoryApiNames>commitonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>closedonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>pipelineonly</forecastedCategoryApiNames>
+        <forecastedCategoryApiNames>customcategory</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>bestcaseonly</forecastedCategoryApiNames>
         <forecastingDateType>ProductDate</forecastingDateType>
         <hasProductFamily>false</hasProductFamily>
@@ -128,6 +139,26 @@
             <label>Owner Full Name</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>AgentActivity</field>
+            <label>Agent Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>CriticalInsights</field>
+            <label>Alerts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>SalesMethodology</field>
+            <label>Sales Methodology</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>ActivityHeatmap</field>
+            <label>Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>Contacts</field>
+            <label>Contacts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
             <label>Contract Number</label>
         </opportunityListFieldsLabelMappings>
@@ -240,6 +271,11 @@
             <field>OPPORTUNITY.PROBABILITY</field>
             <field>FORECAST_CATEGORY</field>
             <field>FULL_NAME</field>
+            <field>AgentActivity</field>
+            <field>CriticalInsights</field>
+            <field>SalesMethodology</field>
+            <field>ActivityHeatmap</field>
+            <field>Contacts</field>
         </opportunityListFieldsSelectedSettings>
         <opportunityListFieldsUnselectedSettings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
@@ -279,6 +315,7 @@
         <forecastedCategoryApiNames>commitonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>closedonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>pipelineonly</forecastedCategoryApiNames>
+        <forecastedCategoryApiNames>customcategory</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>bestcaseonly</forecastedCategoryApiNames>
         <forecastingDateType>ProductDate</forecastingDateType>
         <hasProductFamily>false</hasProductFamily>
@@ -320,6 +357,26 @@
             <label>Owner Full Name</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>AgentActivity</field>
+            <label>Agent Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>CriticalInsights</field>
+            <label>Alerts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>SalesMethodology</field>
+            <label>Sales Methodology</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>ActivityHeatmap</field>
+            <label>Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>Contacts</field>
+            <label>Contacts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
             <label>Contract Number</label>
         </opportunityListFieldsLabelMappings>
@@ -428,6 +485,11 @@
             <field>OPPORTUNITY.PROBABILITY</field>
             <field>FORECAST_CATEGORY</field>
             <field>FULL_NAME</field>
+            <field>AgentActivity</field>
+            <field>CriticalInsights</field>
+            <field>SalesMethodology</field>
+            <field>ActivityHeatmap</field>
+            <field>Contacts</field>
         </opportunityListFieldsSelectedSettings>
         <opportunityListFieldsUnselectedSettings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
@@ -466,6 +528,7 @@
         <forecastedCategoryApiNames>commitonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>closedonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>pipelineonly</forecastedCategoryApiNames>
+        <forecastedCategoryApiNames>customcategory</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>bestcaseonly</forecastedCategoryApiNames>
         <forecastingDateType>ProductDate</forecastingDateType>
         <hasProductFamily>true</hasProductFamily>
@@ -507,6 +570,26 @@
             <label>Owner Full Name</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>AgentActivity</field>
+            <label>Agent Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>CriticalInsights</field>
+            <label>Alerts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>SalesMethodology</field>
+            <label>Sales Methodology</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>ActivityHeatmap</field>
+            <label>Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>Contacts</field>
+            <label>Contacts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
             <label>Contract Number</label>
         </opportunityListFieldsLabelMappings>
@@ -619,6 +702,11 @@
             <field>OPPORTUNITY.PROBABILITY</field>
             <field>FORECAST_CATEGORY</field>
             <field>FULL_NAME</field>
+            <field>AgentActivity</field>
+            <field>CriticalInsights</field>
+            <field>SalesMethodology</field>
+            <field>ActivityHeatmap</field>
+            <field>Contacts</field>
         </opportunityListFieldsSelectedSettings>
         <opportunityListFieldsUnselectedSettings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
@@ -658,6 +746,7 @@
         <forecastedCategoryApiNames>commitonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>closedonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>pipelineonly</forecastedCategoryApiNames>
+        <forecastedCategoryApiNames>customcategory</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>bestcaseonly</forecastedCategoryApiNames>
         <forecastingDateType>ProductDate</forecastingDateType>
         <hasProductFamily>true</hasProductFamily>
@@ -699,6 +788,26 @@
             <label>Owner Full Name</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>AgentActivity</field>
+            <label>Agent Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>CriticalInsights</field>
+            <label>Alerts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>SalesMethodology</field>
+            <label>Sales Methodology</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>ActivityHeatmap</field>
+            <label>Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>Contacts</field>
+            <label>Contacts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
             <label>Contract Number</label>
         </opportunityListFieldsLabelMappings>
@@ -807,6 +916,11 @@
             <field>OPPORTUNITY.PROBABILITY</field>
             <field>FORECAST_CATEGORY</field>
             <field>FULL_NAME</field>
+            <field>AgentActivity</field>
+            <field>CriticalInsights</field>
+            <field>SalesMethodology</field>
+            <field>ActivityHeatmap</field>
+            <field>Contacts</field>
         </opportunityListFieldsSelectedSettings>
         <opportunityListFieldsUnselectedSettings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
@@ -845,6 +959,7 @@
         <forecastedCategoryApiNames>commitonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>closedonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>pipelineonly</forecastedCategoryApiNames>
+        <forecastedCategoryApiNames>customcategory</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>bestcaseonly</forecastedCategoryApiNames>
         <forecastingDateType>ScheduleDate</forecastingDateType>
         <hasProductFamily>false</hasProductFamily>
@@ -886,6 +1001,26 @@
             <label>Owner Full Name</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>AgentActivity</field>
+            <label>Agent Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>CriticalInsights</field>
+            <label>Alerts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>SalesMethodology</field>
+            <label>Sales Methodology</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>ActivityHeatmap</field>
+            <label>Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>Contacts</field>
+            <label>Contacts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
             <label>Contract Number</label>
         </opportunityListFieldsLabelMappings>
@@ -998,6 +1133,11 @@
             <field>OPPORTUNITY.PROBABILITY</field>
             <field>FORECAST_CATEGORY</field>
             <field>FULL_NAME</field>
+            <field>AgentActivity</field>
+            <field>CriticalInsights</field>
+            <field>SalesMethodology</field>
+            <field>ActivityHeatmap</field>
+            <field>Contacts</field>
         </opportunityListFieldsSelectedSettings>
         <opportunityListFieldsUnselectedSettings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
@@ -1037,6 +1177,7 @@
         <forecastedCategoryApiNames>commitonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>closedonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>pipelineonly</forecastedCategoryApiNames>
+        <forecastedCategoryApiNames>customcategory</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>bestcaseonly</forecastedCategoryApiNames>
         <forecastingDateType>ScheduleDate</forecastingDateType>
         <hasProductFamily>false</hasProductFamily>
@@ -1078,6 +1219,26 @@
             <label>Owner Full Name</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>AgentActivity</field>
+            <label>Agent Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>CriticalInsights</field>
+            <label>Alerts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>SalesMethodology</field>
+            <label>Sales Methodology</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>ActivityHeatmap</field>
+            <label>Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>Contacts</field>
+            <label>Contacts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
             <label>Contract Number</label>
         </opportunityListFieldsLabelMappings>
@@ -1186,6 +1347,11 @@
             <field>OPPORTUNITY.PROBABILITY</field>
             <field>FORECAST_CATEGORY</field>
             <field>FULL_NAME</field>
+            <field>AgentActivity</field>
+            <field>CriticalInsights</field>
+            <field>SalesMethodology</field>
+            <field>ActivityHeatmap</field>
+            <field>Contacts</field>
         </opportunityListFieldsSelectedSettings>
         <opportunityListFieldsUnselectedSettings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
@@ -1224,6 +1390,7 @@
         <forecastedCategoryApiNames>commitonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>closedonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>pipelineonly</forecastedCategoryApiNames>
+        <forecastedCategoryApiNames>customcategory</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>bestcaseonly</forecastedCategoryApiNames>
         <forecastingDateType>ScheduleDate</forecastingDateType>
         <hasProductFamily>true</hasProductFamily>
@@ -1265,6 +1432,26 @@
             <label>Owner Full Name</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>AgentActivity</field>
+            <label>Agent Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>CriticalInsights</field>
+            <label>Alerts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>SalesMethodology</field>
+            <label>Sales Methodology</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>ActivityHeatmap</field>
+            <label>Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>Contacts</field>
+            <label>Contacts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
             <label>Contract Number</label>
         </opportunityListFieldsLabelMappings>
@@ -1377,6 +1564,11 @@
             <field>OPPORTUNITY.PROBABILITY</field>
             <field>FORECAST_CATEGORY</field>
             <field>FULL_NAME</field>
+            <field>AgentActivity</field>
+            <field>CriticalInsights</field>
+            <field>SalesMethodology</field>
+            <field>ActivityHeatmap</field>
+            <field>Contacts</field>
         </opportunityListFieldsSelectedSettings>
         <opportunityListFieldsUnselectedSettings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
@@ -1416,6 +1608,7 @@
         <forecastedCategoryApiNames>commitonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>closedonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>pipelineonly</forecastedCategoryApiNames>
+        <forecastedCategoryApiNames>customcategory</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>bestcaseonly</forecastedCategoryApiNames>
         <forecastingDateType>ScheduleDate</forecastingDateType>
         <hasProductFamily>true</hasProductFamily>
@@ -1457,6 +1650,26 @@
             <label>Owner Full Name</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>AgentActivity</field>
+            <label>Agent Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>CriticalInsights</field>
+            <label>Alerts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>SalesMethodology</field>
+            <label>Sales Methodology</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>ActivityHeatmap</field>
+            <label>Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>Contacts</field>
+            <label>Contacts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
             <label>Contract Number</label>
         </opportunityListFieldsLabelMappings>
@@ -1565,6 +1778,11 @@
             <field>OPPORTUNITY.PROBABILITY</field>
             <field>FORECAST_CATEGORY</field>
             <field>FULL_NAME</field>
+            <field>AgentActivity</field>
+            <field>CriticalInsights</field>
+            <field>SalesMethodology</field>
+            <field>ActivityHeatmap</field>
+            <field>Contacts</field>
         </opportunityListFieldsSelectedSettings>
         <opportunityListFieldsUnselectedSettings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
@@ -1603,6 +1821,7 @@
         <forecastedCategoryApiNames>commitonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>closedonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>pipelineonly</forecastedCategoryApiNames>
+        <forecastedCategoryApiNames>customcategory</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>bestcaseonly</forecastedCategoryApiNames>
         <forecastingDateType>OpportunityCloseDate</forecastingDateType>
         <hasProductFamily>false</hasProductFamily>
@@ -1644,6 +1863,26 @@
             <label>Owner Full Name</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>AgentActivity</field>
+            <label>Agent Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>CriticalInsights</field>
+            <label>Alerts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>SalesMethodology</field>
+            <label>Sales Methodology</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>ActivityHeatmap</field>
+            <label>Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>Contacts</field>
+            <label>Contacts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
             <label>Contract Number</label>
         </opportunityListFieldsLabelMappings>
@@ -1752,6 +1991,11 @@
             <field>OPPORTUNITY.PROBABILITY</field>
             <field>FORECAST_CATEGORY</field>
             <field>FULL_NAME</field>
+            <field>AgentActivity</field>
+            <field>CriticalInsights</field>
+            <field>SalesMethodology</field>
+            <field>ActivityHeatmap</field>
+            <field>Contacts</field>
         </opportunityListFieldsSelectedSettings>
         <opportunityListFieldsUnselectedSettings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
@@ -1790,6 +2034,7 @@
         <forecastedCategoryApiNames>commitonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>closedonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>pipelineonly</forecastedCategoryApiNames>
+        <forecastedCategoryApiNames>customcategory</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>bestcaseonly</forecastedCategoryApiNames>
         <forecastingDateType>OpportunityCloseDate</forecastingDateType>
         <hasProductFamily>true</hasProductFamily>
@@ -1831,6 +2076,26 @@
             <label>Owner Full Name</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>AgentActivity</field>
+            <label>Agent Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>CriticalInsights</field>
+            <label>Alerts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>SalesMethodology</field>
+            <label>Sales Methodology</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>ActivityHeatmap</field>
+            <label>Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>Contacts</field>
+            <label>Contacts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
             <label>Contract Number</label>
         </opportunityListFieldsLabelMappings>
@@ -1943,6 +2208,11 @@
             <field>OPPORTUNITY.PROBABILITY</field>
             <field>FORECAST_CATEGORY</field>
             <field>FULL_NAME</field>
+            <field>AgentActivity</field>
+            <field>CriticalInsights</field>
+            <field>SalesMethodology</field>
+            <field>ActivityHeatmap</field>
+            <field>Contacts</field>
         </opportunityListFieldsSelectedSettings>
         <opportunityListFieldsUnselectedSettings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
@@ -1982,6 +2252,7 @@
         <forecastedCategoryApiNames>commitonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>closedonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>pipelineonly</forecastedCategoryApiNames>
+        <forecastedCategoryApiNames>customcategory</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>bestcaseonly</forecastedCategoryApiNames>
         <forecastingDateType>OpportunityCloseDate</forecastingDateType>
         <hasProductFamily>true</hasProductFamily>
@@ -2023,6 +2294,26 @@
             <label>Owner Full Name</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>AgentActivity</field>
+            <label>Agent Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>CriticalInsights</field>
+            <label>Alerts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>SalesMethodology</field>
+            <label>Sales Methodology</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>ActivityHeatmap</field>
+            <label>Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>Contacts</field>
+            <label>Contacts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
             <label>Contract Number</label>
         </opportunityListFieldsLabelMappings>
@@ -2131,6 +2422,11 @@
             <field>OPPORTUNITY.PROBABILITY</field>
             <field>FORECAST_CATEGORY</field>
             <field>FULL_NAME</field>
+            <field>AgentActivity</field>
+            <field>CriticalInsights</field>
+            <field>SalesMethodology</field>
+            <field>ActivityHeatmap</field>
+            <field>Contacts</field>
         </opportunityListFieldsSelectedSettings>
         <opportunityListFieldsUnselectedSettings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
@@ -2169,6 +2465,7 @@
         <forecastedCategoryApiNames>commitonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>closedonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>pipelineonly</forecastedCategoryApiNames>
+        <forecastedCategoryApiNames>customcategory</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>bestcaseonly</forecastedCategoryApiNames>
         <forecastingDateType>OpportunityCloseDate</forecastingDateType>
         <hasProductFamily>false</hasProductFamily>
@@ -2208,6 +2505,26 @@
         <opportunityListFieldsLabelMappings>
             <field>FULL_NAME</field>
             <label>Owner Full Name</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>AgentActivity</field>
+            <label>Agent Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>CriticalInsights</field>
+            <label>Alerts</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>SalesMethodology</field>
+            <label>Sales Methodology</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>ActivityHeatmap</field>
+            <label>Activity</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>Contacts</field>
+            <label>Contacts</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>CONTRACT.CONTRACT_NUMBER</field>
@@ -2318,6 +2635,11 @@
             <field>OPPORTUNITY.PROBABILITY</field>
             <field>FORECAST_CATEGORY</field>
             <field>FULL_NAME</field>
+            <field>AgentActivity</field>
+            <field>CriticalInsights</field>
+            <field>SalesMethodology</field>
+            <field>ActivityHeatmap</field>
+            <field>Contacts</field>
         </opportunityListFieldsSelectedSettings>
         <opportunityListFieldsUnselectedSettings>
             <field>CONTRACT.CONTRACT_NUMBER</field>

@@ -2,26 +2,26 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Pipeline Connection --></value>
     </caseValues>
     <layouts>
         <layout>Deployment Flow Step Layout</layout>
         <sections>
-            <label>カスタムリンク</label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
         <sections>
-            <label>Copadoによって更新されたフィールド</label>
+            <label><!-- Fields Updated By Copado --></label>
             <section>Fields Updated By Copado</section>
         </sections>
     </layouts>
-    <nameFieldLabel></nameFieldLabel>
+    <nameFieldLabel><!-- Pipeline Connection Reference --></nameFieldLabel>
     <validationRules>
-        <errorMessage></errorMessage>
+        <errorMessage><!-- Platform for pipeline and Environment must match --></errorMessage>
         <name>copado__EnvironmentAndPipelinePlatformMustBeSame</name>
     </validationRules>
     <webLinks>
-        <label></label>
+        <label><!-- Select_Branch --></label>
         <name>copado__Select_Branch</name>
     </webLinks>
 </CustomObjectTranslation>

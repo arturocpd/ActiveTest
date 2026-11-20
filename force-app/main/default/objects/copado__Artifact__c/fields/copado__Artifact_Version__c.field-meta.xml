@@ -3,7 +3,6 @@
     <fullName>copado__Artifact_Version__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Latest Package Version</label>
     <lookupFilter>
         <active>true</active>

@@ -3,10 +3,10 @@
     <fullName>copado__Work_Manager_Panels__c</fullName>
     <deprecated>false</deprecated>
     <description>JSON containing current user panels on the Backlog</description>
-    <externalId>false</externalId>
     <label>Work Manager Panels</label>
     <length>131072</length>
     <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
     <type>LongTextArea</type>
     <visibleLines>2</visibleLines>
 </CustomField>

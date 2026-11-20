@@ -2,7 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>copado__Highest_Priority_Violation__c</fullName>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Highest Priority Violation</label>
     <summarizedField>copado__Static_Code_Analysis_Violation__c.copado__Priority__c</summarizedField>
     <summaryFilterItems>

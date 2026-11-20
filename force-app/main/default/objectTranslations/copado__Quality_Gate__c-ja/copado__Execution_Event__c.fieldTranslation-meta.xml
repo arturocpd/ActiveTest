@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <help>この自動化のトリガーとなるイベント</help>
-    <label></label>
+    <label><!-- Execution Event --></label>
     <name>copado__Execution_Event__c</name>
     <picklistValues>
         <masterLabel>Deployment</masterLabel>

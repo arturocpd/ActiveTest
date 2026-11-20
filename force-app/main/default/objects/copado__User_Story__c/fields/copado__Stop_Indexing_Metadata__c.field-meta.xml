@@ -4,7 +4,6 @@
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
     <description>If checked, the User Story will not be indexed for Copado&apos;s Overlap Awareness.</description>
-    <externalId>false</externalId>
     <inlineHelpText>If checked, the User Story will not be indexed for Copado&apos;s Overlap Awareness.</inlineHelpText>
     <label>Exclude from Overlap Awareness</label>
     <trackHistory>false</trackHistory>

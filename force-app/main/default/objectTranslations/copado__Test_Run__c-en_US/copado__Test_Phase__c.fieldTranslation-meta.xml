@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label></label>
+    <label><!-- Test Phase --></label>
     <name>copado__Test_Phase__c</name>
     <picklistValues>
         <masterLabel>Developer</masterLabel>
-        <translation></translation>
+        <translation><!-- Developer --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Peer Review</masterLabel>
-        <translation></translation>
+        <translation><!-- Peer Review --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Production</masterLabel>
-        <translation></translation>
+        <translation><!-- Production --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>User Acceptance</masterLabel>
-        <translation></translation>
+        <translation><!-- User Acceptance --></translation>
     </picklistValues>
 </CustomFieldTranslation>

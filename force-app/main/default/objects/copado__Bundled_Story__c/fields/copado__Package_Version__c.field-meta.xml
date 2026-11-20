@@ -3,7 +3,6 @@
     <fullName>copado__Package_Version__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Package Version</label>
     <referenceTo>copado__Artifact_Version__c</referenceTo>
     <relationshipLabel>Bundled Stories</relationshipLabel>

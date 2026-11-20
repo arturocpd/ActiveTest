@@ -2,7 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>copado__Hide_Tabs__c</fullName>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Tabs to hide in Branch Management detail window</inlineHelpText>
     <label>Hide Tabs</label>
     <required>false</required>

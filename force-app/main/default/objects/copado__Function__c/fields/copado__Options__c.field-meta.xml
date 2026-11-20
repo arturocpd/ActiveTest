@@ -3,7 +3,6 @@
     <fullName>copado__Options__c</fullName>
     <deprecated>false</deprecated>
     <description>User can define few options like maxVolume and volumeTTL which can be used to run standalone function with these configurations</description>
-    <externalId>false</externalId>
     <label>Options</label>
     <length>131072</length>
     <trackTrending>false</trackTrending>

@@ -3,7 +3,6 @@
     <fullName>copado__Static_Code_Analysis_Settings__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Static Code Analysis Settings</label>
     <referenceTo>copado__Static_Code_Analysis_Settings__c</referenceTo>
     <relationshipLabel>AuxiliaryObjects</relationshipLabel>

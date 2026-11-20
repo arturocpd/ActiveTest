@@ -3,7 +3,6 @@
     <fullName>copado__Environment__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Select the environment where you want to override the default job template defined in the pipeline.</inlineHelpText>
     <label>Environment</label>
     <referenceTo>copado__Environment__c</referenceTo>

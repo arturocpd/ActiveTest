@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>The default Behavior for Connections into this Environment</description>
-    <externalId>false</externalId>
     <label>Incoming Connection Behavior</label>
     <referenceTo>copado__Connection_Behavior__c</referenceTo>
     <relationshipLabel>Environment Default Behavior</relationshipLabel>

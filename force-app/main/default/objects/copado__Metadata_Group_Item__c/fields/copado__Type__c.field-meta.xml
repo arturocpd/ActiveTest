@@ -3,7 +3,6 @@
     <fullName>copado__Type__c</fullName>
     <deprecated>false</deprecated>
     <description>The type of metadata</description>
-    <externalId>false</externalId>
     <inlineHelpText>The type of metadata</inlineHelpText>
     <label>Metadata Type</label>
     <required>true</required>

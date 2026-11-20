@@ -3,7 +3,6 @@
     <fullName>copado__Execute_back_promotions_in_parallel__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Execute back-promotions in parallel</label>
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>

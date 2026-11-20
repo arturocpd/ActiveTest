@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>Project where the User Story belongs.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Project where the User Story belongs.</inlineHelpText>
     <label>Project</label>
     <referenceTo>copado__Project__c</referenceTo>

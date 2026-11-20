@@ -2,12 +2,12 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Selenium Test Suite --></value>
     </caseValues>
     <layouts>
         <layout>Selenium Test Suite Layout</layout>
         <sections>
-            <label>カスタムリンク</label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
         <sections>
@@ -15,17 +15,17 @@
             <section>Pre/post code execution</section>
         </sections>
     </layouts>
-    <nameFieldLabel></nameFieldLabel>
+    <nameFieldLabel><!-- Selenium Test Suite Name --></nameFieldLabel>
     <webLinks>
-        <label></label>
+        <label><!-- Add_Remove_Test_Cases --></label>
         <name>copado__Add_Remove_Test_Cases</name>
     </webLinks>
     <webLinks>
-        <label></label>
+        <label><!-- Add_Selection_to_a_Test_Group --></label>
         <name>copado__Add_Selection_to_a_Test_Group</name>
     </webLinks>
     <webLinks>
-        <label></label>
+        <label><!-- Quick_Run --></label>
         <name>copado__Quick_Run</name>
     </webLinks>
 </CustomObjectTranslation>

@@ -3,7 +3,6 @@
     <fullName>copado__Severity__c</fullName>
     <deprecated>false</deprecated>
     <description>CodeScan Severity</description>
-    <externalId>false</externalId>
     <label>Severity</label>
     <required>false</required>
     <trackTrending>false</trackTrending>

@@ -3,7 +3,6 @@
     <fullName>copado__Highest_Rule_Action__c</fullName>
     <deprecated>false</deprecated>
     <description>The most severe action in the Compliance Findings.</description>
-    <externalId>false</externalId>
     <inlineHelpText>The most severe action in the Compliance Findings.</inlineHelpText>
     <label>Highest Rule Action</label>
     <required>false</required>

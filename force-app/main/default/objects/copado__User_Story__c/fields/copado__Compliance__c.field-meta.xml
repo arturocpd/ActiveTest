@@ -3,7 +3,6 @@
     <fullName>copado__Compliance__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Compliance</label>
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>

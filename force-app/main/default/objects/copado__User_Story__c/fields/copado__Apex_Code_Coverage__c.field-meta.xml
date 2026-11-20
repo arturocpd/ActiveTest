@@ -3,7 +3,6 @@
     <fullName>copado__Apex_Code_Coverage__c</fullName>
     <deprecated>false</deprecated>
     <description>Coverage of the Apex Classes added or committed within the User Story.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Coverage of the Apex Classes added or committed within the User Story.</inlineHelpText>
     <label>Apex Code Coverage</label>
     <precision>3</precision>

@@ -12,32 +12,20 @@
                         <valueListItems>
                             <value>copado__Artifact__c.cmcSf__GeneratePackageSFDX</value>
                             <visibilityRule>
-                                <booleanFilter>1 AND 2</booleanFilter>
                                 <criteria>
                                     <leftValue>{!$Permission.CustomPermission.copado__Enable_Package_Creation}</leftValue>
                                     <operator>EQUAL</operator>
                                     <rightValue>true</rightValue>
-                                </criteria>
-                                <criteria>
-                                    <leftValue>{!Record.RecordType.DeveloperName}</leftValue>
-                                    <operator>NE</operator>
-                                    <rightValue>User_Story_Bundle</rightValue>
                                 </criteria>
                             </visibilityRule>
                         </valueListItems>
                         <valueListItems>
                             <value>copado__Artifact__c.cmcSf__Distribute_Package</value>
                             <visibilityRule>
-                                <booleanFilter>1 AND 2</booleanFilter>
                                 <criteria>
                                     <leftValue>{!$Permission.CustomPermission.copado__Enable_Package_Publish}</leftValue>
                                     <operator>EQUAL</operator>
                                     <rightValue>true</rightValue>
-                                </criteria>
-                                <criteria>
-                                    <leftValue>{!Record.RecordType.DeveloperName}</leftValue>
-                                    <operator>NE</operator>
-                                    <rightValue>User_Story_Bundle</rightValue>
                                 </criteria>
                             </visibilityRule>
                         </valueListItems>
@@ -97,20 +85,12 @@
         </itemInstances>
         <itemInstances>
             <fieldInstance>
-                <fieldInstanceProperties>
-                    <name>uiBehavior</name>
-                    <value>none</value>
-                </fieldInstanceProperties>
                 <fieldItem>Record.OwnerId</fieldItem>
                 <identifier>RecordOwnerIdField1</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
             <fieldInstance>
-                <fieldInstanceProperties>
-                    <name>uiBehavior</name>
-                    <value>none</value>
-                </fieldInstanceProperties>
                 <fieldItem>Record.copado__Pipeline__c</fieldItem>
                 <identifier>RecordPipeline_cField1</identifier>
             </fieldInstance>
@@ -121,20 +101,12 @@
     <flexiPageRegions>
         <itemInstances>
             <fieldInstance>
-                <fieldInstanceProperties>
-                    <name>uiBehavior</name>
-                    <value>none</value>
-                </fieldInstanceProperties>
                 <fieldItem>Record.RecordTypeId</fieldItem>
                 <identifier>RecordRecordTypeIdField1</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
             <fieldInstance>
-                <fieldInstanceProperties>
-                    <name>uiBehavior</name>
-                    <value>none</value>
-                </fieldInstanceProperties>
                 <fieldItem>Record.copado__Artifact_Version__c</fieldItem>
                 <identifier>RecordArtifact_Version_cField1</identifier>
             </fieldInstance>
@@ -147,30 +119,12 @@
                 </fieldInstanceProperties>
                 <fieldItem>Record.copado__Artifact_Repository__c</fieldItem>
                 <identifier>RecordArtifact_Repository_cField1</identifier>
-                <visibilityRule>
-                    <criteria>
-                        <leftValue>{!Record.RecordType.DeveloperName}</leftValue>
-                        <operator>NE</operator>
-                        <rightValue>User_Story_Bundle</rightValue>
-                    </criteria>
-                </visibilityRule>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
             <fieldInstance>
-                <fieldInstanceProperties>
-                    <name>uiBehavior</name>
-                    <value>none</value>
-                </fieldInstanceProperties>
                 <fieldItem>Record.copado__DefaultBranch__c</fieldItem>
                 <identifier>RecordDefaultBranch_cField1</identifier>
-                <visibilityRule>
-                    <criteria>
-                        <leftValue>{!Record.RecordType.DeveloperName}</leftValue>
-                        <operator>NE</operator>
-                        <rightValue>User_Story_Bundle</rightValue>
-                    </criteria>
-                </visibilityRule>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
@@ -181,13 +135,6 @@
                 </fieldInstanceProperties>
                 <fieldItem>Record.cmcSf__PackagePath__c</fieldItem>
                 <identifier>RecordPackagePath_cField</identifier>
-                <visibilityRule>
-                    <criteria>
-                        <leftValue>{!Record.RecordType.DeveloperName}</leftValue>
-                        <operator>NE</operator>
-                        <rightValue>User_Story_Bundle</rightValue>
-                    </criteria>
-                </visibilityRule>
             </fieldInstance>
         </itemInstances>
         <name>Facet-4e0727ab-2bcc-4603-9520-48e481860650</name>
@@ -230,20 +177,12 @@
         </itemInstances>
         <itemInstances>
             <fieldInstance>
-                <fieldInstanceProperties>
-                    <name>uiBehavior</name>
-                    <value>none</value>
-                </fieldInstanceProperties>
                 <fieldItem>Record.copado__Package_Type__c</fieldItem>
                 <identifier>RecordPackage_Type_cField1</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
             <fieldInstance>
-                <fieldInstanceProperties>
-                    <name>uiBehavior</name>
-                    <value>none</value>
-                </fieldInstanceProperties>
                 <fieldItem>Record.cmcSf__IsOrgDependent__c</fieldItem>
                 <identifier>RecordIsOrgDependent_cField</identifier>
                 <visibilityRule>
@@ -259,10 +198,10 @@
             <fieldInstance>
                 <fieldInstanceProperties>
                     <name>uiBehavior</name>
-                    <value>none</value>
+                    <value>readonly</value>
                 </fieldInstanceProperties>
-                <fieldItem>Record.cmcSf__Api_Version__c</fieldItem>
-                <identifier>RecordApi_Version_cField</identifier>
+                <fieldItem>Record.copado__Source_Api_Version__c</fieldItem>
+                <identifier>Recordcopado_Source_Api_Version_cField</identifier>
             </fieldInstance>
         </itemInstances>
         <name>Facet-611b92a8-c365-4091-a611-293684671258</name>
@@ -281,20 +220,12 @@
         </itemInstances>
         <itemInstances>
             <fieldInstance>
-                <fieldInstanceProperties>
-                    <name>uiBehavior</name>
-                    <value>none</value>
-                </fieldInstanceProperties>
                 <fieldItem>Record.copado__No_Namespace__c</fieldItem>
                 <identifier>Recordcopado_No_Namespace_cField</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
             <fieldInstance>
-                <fieldInstanceProperties>
-                    <name>uiBehavior</name>
-                    <value>none</value>
-                </fieldInstanceProperties>
                 <fieldItem>Record.copado__Package_Namespace__c</fieldItem>
                 <identifier>Recordcopado_Package_Namespace_cField</identifier>
             </fieldInstance>
@@ -357,10 +288,6 @@
     <flexiPageRegions>
         <itemInstances>
             <fieldInstance>
-                <fieldInstanceProperties>
-                    <name>uiBehavior</name>
-                    <value>none</value>
-                </fieldInstanceProperties>
                 <fieldItem>Record.CreatedById</fieldItem>
                 <identifier>RecordCreatedByIdField1</identifier>
             </fieldInstance>
@@ -371,10 +298,6 @@
     <flexiPageRegions>
         <itemInstances>
             <fieldInstance>
-                <fieldInstanceProperties>
-                    <name>uiBehavior</name>
-                    <value>none</value>
-                </fieldInstanceProperties>
                 <fieldItem>Record.LastModifiedById</fieldItem>
                 <identifier>RecordLastModifiedByIdField1</identifier>
             </fieldInstance>
@@ -414,10 +337,6 @@
                     <value>Facet-4d180e75-7d02-4de9-af8c-555ffdf35ede</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
-                    <name>horizontalAlignment</name>
-                    <value>false</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
                     <name>label</name>
                     <value>Package Information</value>
                 </componentInstanceProperties>
@@ -430,10 +349,6 @@
                 <componentInstanceProperties>
                     <name>columns</name>
                     <value>Facet-c6cbeec4-bd69-40da-ac0c-270e5b73fdb9</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>horizontalAlignment</name>
-                    <value>false</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
                     <name>label</name>
@@ -450,10 +365,6 @@
                     <value>Facet-5f669fa8-8e0e-4dc2-8ada-050113e86e19</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
-                    <name>horizontalAlignment</name>
-                    <value>false</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
                     <name>label</name>
                     <value>Additional Parameters</value>
                 </componentInstanceProperties>
@@ -466,10 +377,6 @@
                 <componentInstanceProperties>
                     <name>columns</name>
                     <value>Facet-ddbd4cdb-b905-4fbc-b623-6d2d4b70e3ac</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>horizontalAlignment</name>
-                    <value>false</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
                     <name>label</name>
@@ -560,34 +467,12 @@
                     <name>fieldApiName</name>
                     <value>LastJobExecutionId__c</value>
                 </componentInstanceProperties>
-                <componentName>copado:enhancedResultViewer</componentName>
-                <identifier>copado_enhancedResultViewer</identifier>
-                <visibilityRule>
-                    <criteria>
-                        <leftValue>{!Record.RecordType.DeveloperName}</leftValue>
-                        <operator>NE</operator>
-                        <rightValue>User_Story_Bundle</rightValue>
-                    </criteria>
-                </visibilityRule>
+                <componentName>copado:resultMonitor</componentName>
+                <identifier>resultMonitor</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
             <componentInstance>
-                <componentInstanceProperties>
-                    <name>actionNames</name>
-                    <valueList>
-                        <valueListItems>
-                            <value>MassChangeOwner</value>
-                        </valueListItems>
-                        <valueListItems>
-                            <value>New</value>
-                        </valueListItems>
-                    </valueList>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>maxRecordsToDisplay</name>
-                    <value>5</value>
-                </componentInstanceProperties>
                 <componentInstanceProperties>
                     <name>parentFieldApiName</name>
                     <value>copado__Artifact__c.Id</value>
@@ -597,56 +482,11 @@
                     <value>copado__Artifact_Versions__r</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
-                    <name>relatedListDisplayType</name>
-                    <value>ADVGRID</value>
+                    <name>relatedListComponentOverride</name>
+                    <value>NONE</value>
                 </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>relatedListFieldAliases</name>
-                    <valueList>
-                        <valueListItems>
-                            <value>NAME</value>
-                        </valueListItems>
-                        <valueListItems>
-                            <value>copado__Version_number__c</value>
-                        </valueListItems>
-                        <valueListItems>
-                            <value>copado__Status__c</value>
-                        </valueListItems>
-                        <valueListItems>
-                            <value>LAST_UPDATE</value>
-                        </valueListItems>
-                        <valueListItems>
-                            <value>copado__Version_Name__c</value>
-                        </valueListItems>
-                        <valueListItems>
-                            <value>copado__Branch__c</value>
-                        </valueListItems>
-                        <valueListItems>
-                            <value>copado__Is_released__c</value>
-                        </valueListItems>
-                        <valueListItems>
-                            <value>cmcSf__Skip_Validation__c</value>
-                        </valueListItems>
-                    </valueList>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>relatedListLabel</name>
-                    <value>Package Versions</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>showActionBar</name>
-                    <value>true</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>sortFieldAlias</name>
-                    <value>LAST_UPDATE</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>sortFieldOrder</name>
-                    <value>Descending</value>
-                </componentInstanceProperties>
-                <componentName>lst:dynamicRelatedList</componentName>
-                <identifier>lst_dynamicRelatedList</identifier>
+                <componentName>force:relatedListSingleContainer</componentName>
+                <identifier>force_relatedListSingleContainer2</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <help>レコードカウント基準とレコードカウント間の演算子</help>
-    <label></label>
+    <label><!-- Matching Criteria --></label>
     <name>copado__Matching_Criteria__c</name>
     <picklistValues>
         <masterLabel>Equals</masterLabel>
-        <translation>同等</translation>
+        <translation><!-- Equals --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Greater Than</masterLabel>

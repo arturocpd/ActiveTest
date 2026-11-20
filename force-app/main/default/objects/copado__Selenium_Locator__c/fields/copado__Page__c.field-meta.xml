@@ -2,7 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>copado__Page__c</fullName>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Used to give context for the locator. It can be any text.
 Copado Recorder will automatically set the page title when recording.</inlineHelpText>
     <label>Page</label>

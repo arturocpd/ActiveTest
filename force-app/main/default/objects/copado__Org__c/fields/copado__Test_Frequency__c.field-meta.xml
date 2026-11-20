@@ -3,7 +3,6 @@
     <fullName>copado__Test_Frequency__c</fullName>
     <deprecated>false</deprecated>
     <description>Continuous Integration feature. Run all Apex Test methods and save the results in the Apex Test Result object to create email alerts or reports. This feature is very powerful along with Git Backups to detect recent failing changes automatically.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Continuous Integration feature. Run all Apex Test methods and save the results in the Apex Test Result object to create email alerts or reports. This feature is very powerful along with Git Backups to detect recent failing changes automatically.</inlineHelpText>
     <label>Test Frequency</label>
     <required>false</required>

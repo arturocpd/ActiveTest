@@ -13,27 +13,44 @@
     <enableAnalyticsSharingEnable>true</enableAnalyticsSharingEnable>
     <enableAutoCompleteCombo>true</enableAutoCompleteCombo>
     <enableAzureDLGen2OutputConnector>false</enableAzureDLGen2OutputConnector>
+    <enableCrmaSubsForExpCloud>false</enableCrmaSubsForExpCloud>
+    <enableCrtSetupLightningUiPref>true</enableCrtSetupLightningUiPref>
     <enableDashboardComponentSnapshot>false</enableDashboardComponentSnapshot>
     <enableDashboardFlexiTable>true</enableDashboardFlexiTable>
+    <enableDashboardSubOrgEmailPref>false</enableDashboardSubOrgEmailPref>
     <enableEmailReportsToPortalUsers>false</enableEmailReportsToPortalUsers>
     <enableFloatingReportHeaders>true</enableFloatingReportHeaders>
+    <enableHeadlessBrowserServiceTOS>false</enableHeadlessBrowserServiceTOS>
     <enableInsights>false</enableInsights>
+    <enableLightningDashboardLWRPref>false</enableLightningDashboardLWRPref>
     <enableLightningReportBuilder>false</enableLightningReportBuilder>
+    <enableLightningReportLWRPref>false</enableLightningReportLWRPref>
     <enableLotusNotesImages>false</enableLotusNotesImages>
     <enableMassEnableReportBuilder>true</enableMassEnableReportBuilder>
+    <enableNativeTableauLWC>false</enableNativeTableauLWC>
     <enableNewChartsEngine>true</enableNewChartsEngine>
     <enableNullDimension>false</enableNullDimension>
-    <enableOrgCanSeeLivePreviews>false</enableOrgCanSeeLivePreviews>
     <enableOrgCanViewTableau>false</enableOrgCanViewTableau>
     <enableOrgCanViewThumbnailForOA>false</enableOrgCanViewThumbnailForOA>
     <enableOrgHasMobileOfflineEnabled>true</enableOrgHasMobileOfflineEnabled>
     <enableOrgHasWatchlistEnabled>true</enableOrgHasWatchlistEnabled>
+    <enableOrgHierarchy>false</enableOrgHierarchy>
+    <enableOrgWideEmailNotification>false</enableOrgWideEmailNotification>
+    <enablePredictFunction>false</enablePredictFunction>
+    <enablePupparazziForNotifications>false</enablePupparazziForNotifications>
     <enableQueryLiveConnectors>true</enableQueryLiveConnectors>
+    <enableRemoteHomeOrgOps>true</enableRemoteHomeOrgOps>
     <enableRemoveFooterForRepDisplay>false</enableRemoveFooterForRepDisplay>
     <enableRemoveFooterFromRepExp>false</enableRemoveFooterFromRepExp>
+    <enableReportCdnPref>true</enableReportCdnPref>
+    <enableReportCustomTextExportPref>false</enableReportCustomTextExportPref>
+    <enableReportEscapeCharsPref>false</enableReportEscapeCharsPref>
     <enableReportHideXlsExportPref>false</enableReportHideXlsExportPref>
     <enableReportInlineEditPref>true</enableReportInlineEditPref>
     <enableReportNotificationsEnable>true</enableReportNotificationsEnable>
+    <enableReportRecordPreviewOrgPref>false</enableReportRecordPreviewOrgPref>
+    <enableReportSubOrgEmailPref>false</enableReportSubOrgEmailPref>
+    <enableReportingOnSDMPref>false</enableReportingOnSDMPref>
     <enableS1AnalyticsEclairEnable>true</enableS1AnalyticsEclairEnable>
     <enableS3OutputConnector>false</enableS3OutputConnector>
     <enableSFXJoinedReportsEnable>false</enableSFXJoinedReportsEnable>
@@ -41,7 +58,12 @@
     <enableSecureImageSharing>false</enableSecureImageSharing>
     <enableSnowflakeOutputConnector>false</enableSnowflakeOutputConnector>
     <enableSummaryFilterOrgPref>false</enableSummaryFilterOrgPref>
+    <enableTNAppAutoInstall>false</enableTNAppAutoInstall>
+    <enableTNAppAutoUpdate>false</enableTNAppAutoUpdate>
+    <enableTableauAgenticTransforms>false</enableTableauAgenticTransforms>
     <enableTableauHyperOutputConnector>false</enableTableauHyperOutputConnector>
+    <enableTableauSdmAiOptimization>false</enableTableauSdmAiOptimization>
+    <enableTableauSeamlessAuth>false</enableTableauSeamlessAuth>
     <enableUseOldChartsLookAndFeel>false</enableUseOldChartsLookAndFeel>
     <enableWaveIndexMVDim>true</enableWaveIndexMVDim>
     <enableWaveIndexMVDimV2>false</enableWaveIndexMVDimV2>
@@ -49,6 +71,7 @@
     <enableWaveReplication>false</enableWaveReplication>
     <enableWaveSharingInheritance>false</enableWaveSharingInheritance>
     <enableWaveSqlCFIndexing>false</enableWaveSqlCFIndexing>
+    <enableWriteToDataCloud>false</enableWriteToDataCloud>
     <isDiscoveryOptimizationEnabled>false</isDiscoveryOptimizationEnabled>
     <isHighVolumePushbackEnabled>false</isHighVolumePushbackEnabled>
     <maxHoursAppInProgress>48</maxHoursAppInProgress>

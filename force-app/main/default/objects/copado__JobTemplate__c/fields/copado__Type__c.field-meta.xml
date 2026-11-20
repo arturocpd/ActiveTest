@@ -4,7 +4,6 @@
     <defaultValue>&apos;Custom&apos;</defaultValue>
     <deprecated>false</deprecated>
     <description>Type of Job Template</description>
-    <externalId>false</externalId>
     <label>Type</label>
     <required>true</required>
     <trackHistory>false</trackHistory>

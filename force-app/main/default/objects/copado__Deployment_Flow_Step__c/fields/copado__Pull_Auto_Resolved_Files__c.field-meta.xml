@@ -3,7 +3,6 @@
     <fullName>copado__Pull_Auto_Resolved_Files__c</fullName>
     <deprecated>false</deprecated>
     <description>List of conflicted files auto resolved by Copado when merging the destination branch into the source branch.</description>
-    <externalId>false</externalId>
     <inlineHelpText>List of conflicted files auto resolved by Copado when merging the destination branch into the source branch.</inlineHelpText>
     <label>Pull Auto Resolved Files</label>
     <length>32768</length>

@@ -4,7 +4,6 @@
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
     <description>This field is updated when the Deployment Completed email has been sent to prevent subsequent notifications until this marker has been reset.</description>
-    <externalId>false</externalId>
     <label>Deployment Completed email sent</label>
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>

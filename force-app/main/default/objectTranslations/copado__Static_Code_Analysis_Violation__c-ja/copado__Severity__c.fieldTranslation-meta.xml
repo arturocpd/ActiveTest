@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label></label>
+    <label><!-- Severity --></label>
     <name>copado__Severity__c</name>
     <picklistValues>
         <masterLabel>Blocker</masterLabel>
@@ -16,7 +16,7 @@
     </picklistValues>
     <picklistValues>
         <masterLabel>Major</masterLabel>
-        <translation>メジャー</translation>
+        <translation><!-- Major --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Minor</masterLabel>

@@ -3,7 +3,6 @@
     <fullName>copado__Perform_in_Source_Org__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Perform in Source Credential</label>
     <trackTrending>false</trackTrending>
     <type>Checkbox</type>

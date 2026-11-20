@@ -3,7 +3,6 @@
     <fullName>copado__Depending_Artifact_Version__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>The minumum or exact version of depending artifact. This particular version will be used during version creation and installation operations.</inlineHelpText>
     <label>Depending Package Version</label>
     <lookupFilter>

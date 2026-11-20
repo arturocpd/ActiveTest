@@ -3,7 +3,6 @@
     <fullName>copado__Description__c</fullName>
     <deprecated>false</deprecated>
     <description>Brief description of what data contains this Data Set.</description>
-    <externalId>false</externalId>
     <label>Description</label>
     <length>256</length>
     <trackHistory>false</trackHistory>

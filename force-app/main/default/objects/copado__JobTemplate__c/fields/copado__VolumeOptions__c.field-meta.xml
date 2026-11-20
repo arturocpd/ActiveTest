@@ -3,7 +3,6 @@
     <fullName>copado__VolumeOptions__c</fullName>
     <deprecated>false</deprecated>
     <description>A JSON containing transaction and volume options.</description>
-    <externalId>false</externalId>
     <inlineHelpText>A JSON containing transaction and volume options</inlineHelpText>
     <label>VolumeOptions</label>
     <length>32768</length>

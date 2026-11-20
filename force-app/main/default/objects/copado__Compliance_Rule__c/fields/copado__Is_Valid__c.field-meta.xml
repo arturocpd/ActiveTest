@@ -3,7 +3,6 @@
     <fullName>copado__Is_Valid__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Automatically updated by copado when saving managing criteria</inlineHelpText>
     <label>Is Valid</label>
     <trackHistory>false</trackHistory>

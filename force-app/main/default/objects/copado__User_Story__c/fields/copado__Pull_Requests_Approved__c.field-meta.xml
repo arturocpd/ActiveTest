@@ -3,7 +3,6 @@
     <fullName>copado__Pull_Requests_Approved__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Pull Requests Approved</label>
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>

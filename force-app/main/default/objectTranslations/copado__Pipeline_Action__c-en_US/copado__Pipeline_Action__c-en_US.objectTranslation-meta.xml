@@ -3,19 +3,19 @@
     <layouts>
         <layout>Pipeline Action Layout</layout>
         <sections>
-            <label></label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Environment Override --></label>
             <section>Environment Override</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Pipeline --></label>
             <section>Pipeline</section>
         </sections>
         <sections>
-            <label></label>
+            <label><!-- Settings --></label>
             <section>Settings</section>
         </sections>
     </layouts>

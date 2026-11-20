@@ -3,7 +3,6 @@
     <fullName>copado__JsonResult__c</fullName>
     <deprecated>false</deprecated>
     <description>An Internal field to store step result</description>
-    <externalId>false</externalId>
     <label>JsonResult</label>
     <length>131072</length>
     <trackHistory>false</trackHistory>

@@ -3,7 +3,6 @@
     <fullName>copado__Limits_Usage__c</fullName>
     <deprecated>false</deprecated>
     <description>Details of the limits used while publishing log event</description>
-    <externalId>false</externalId>
     <isFilteringDisabled>false</isFilteringDisabled>
     <isNameField>false</isNameField>
     <isSortingDisabled>false</isSortingDisabled>

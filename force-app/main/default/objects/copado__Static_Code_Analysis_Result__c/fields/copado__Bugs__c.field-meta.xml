@@ -3,7 +3,6 @@
     <fullName>copado__Bugs__c</fullName>
     <deprecated>false</deprecated>
     <description>CodeScan Bugs in violations</description>
-    <externalId>false</externalId>
     <label>Bugs</label>
     <summaryFilterItems>
         <field>copado__Static_Code_Analysis_Violation__c.copado__Type__c</field>

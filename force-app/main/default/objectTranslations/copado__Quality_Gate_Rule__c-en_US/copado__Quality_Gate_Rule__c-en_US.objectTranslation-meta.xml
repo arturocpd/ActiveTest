@@ -3,16 +3,16 @@
     <layouts>
         <layout>Quality Gate Rule Layout</layout>
         <sections>
-            <label></label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
     </layouts>
     <quickActions>
-        <label></label>
+        <label><!-- Activate --></label>
         <name>copado__Activate</name>
     </quickActions>
     <quickActions>
-        <label></label>
+        <label><!-- Deactivate --></label>
         <name>copado__Deactivate</name>
     </quickActions>
 </CustomObjectTranslation>

@@ -3,7 +3,6 @@
     <fullName>copado__Feature__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Feature</label>
     <referenceTo>copado__Application_Feature__c</referenceTo>
     <relationshipLabel>Tests</relationshipLabel>

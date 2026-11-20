@@ -3,7 +3,6 @@
     <fullName>copado__Automation_Template__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Group of steps to be executed in the future.</inlineHelpText>
     <label>Automation Template</label>
     <lookupFilter>

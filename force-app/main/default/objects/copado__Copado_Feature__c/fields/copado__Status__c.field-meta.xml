@@ -3,7 +3,6 @@
     <fullName>copado__Status__c</fullName>
     <businessStatus>Hidden</businessStatus>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Status</label>
     <required>false</required>
     <trackTrending>false</trackTrending>

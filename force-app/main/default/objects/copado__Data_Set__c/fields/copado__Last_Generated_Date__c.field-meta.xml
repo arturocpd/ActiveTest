@@ -3,7 +3,6 @@
     <fullName>copado__Last_Generated_Date__c</fullName>
     <deprecated>false</deprecated>
     <description>Date and time of the last time the data set was generated (i.e. attached files were updated).</description>
-    <externalId>false</externalId>
     <inlineHelpText>This date is automatically updated by Copado when generating the data set CSV files from a source environment. Update this value when generating the CSV files from an external database or process.</inlineHelpText>
     <label>Last Generated Date</label>
     <required>false</required>

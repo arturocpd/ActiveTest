@@ -3,7 +3,6 @@
     <fullName>copado__From_Org__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Select the Source Credential for which you would like to compare the Metadata. This Credential will be the Credential from which you would like to migrate Metadata.</inlineHelpText>
     <label>Source Credential</label>
     <referenceTo>copado__Org__c</referenceTo>

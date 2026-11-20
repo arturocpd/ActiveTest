@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>Name of the destination environment.</description>
-    <externalId>false</externalId>
     <label>Destination</label>
     <referenceTo>copado__Environment__c</referenceTo>
     <relationshipLabel>Job Executions (Destination)</relationshipLabel>

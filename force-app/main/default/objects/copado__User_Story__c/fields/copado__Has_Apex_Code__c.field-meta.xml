@@ -4,7 +4,6 @@
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
     <description>Value automatically updated by Copado whenever there are Apex Classes added or committed in the User Story.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Value automatically updated by Copado whenever there are Apex Classes added or committed in the User Story.</inlineHelpText>
     <label>Has Apex Code</label>
     <trackHistory>false</trackHistory>

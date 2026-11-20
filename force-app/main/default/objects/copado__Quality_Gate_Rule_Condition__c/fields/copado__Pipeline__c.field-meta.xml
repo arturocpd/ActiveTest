@@ -3,7 +3,6 @@
     <fullName>copado__Pipeline__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Pipeline where this Quality Gate Condition will be evaluated.</inlineHelpText>
     <label>Pipeline</label>
     <referenceTo>copado__Deployment_Flow__c</referenceTo>

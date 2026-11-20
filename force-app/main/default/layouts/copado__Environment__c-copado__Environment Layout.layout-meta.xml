@@ -42,7 +42,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>copado__Run_specified_tests__c</field>
+                <field>Run_Specified_Test__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>

@@ -2,7 +2,7 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Function --></value>
     </caseValues>
     <layouts>
         <layout>Function Layout</layout>
@@ -11,29 +11,29 @@
             <section>Callback</section>
         </sections>
         <sections>
-            <label>設定</label>
+            <label><!-- Configuration --></label>
             <section>Configuration</section>
         </sections>
         <sections>
-            <label>カスタムリンク</label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
     </layouts>
-    <nameFieldLabel></nameFieldLabel>
+    <nameFieldLabel><!-- Function Name --></nameFieldLabel>
     <quickActions>
-        <label></label>
+        <label><!-- Clone Function --></label>
         <name>copado__Clone_Function</name>
     </quickActions>
     <quickActions>
-        <label></label>
+        <label><!-- Execute Function --></label>
         <name>copado__Execute_Function</name>
     </quickActions>
     <validationRules>
-        <errorMessage></errorMessage>
+        <errorMessage><!-- Api name can only contain alphanumeric characters and must begin with a letter --></errorMessage>
         <name>copado__Function_Name_must_Be_Alpha_Numeric</name>
     </validationRules>
     <validationRules>
-        <errorMessage></errorMessage>
+        <errorMessage><!-- Script cannot be empty. --></errorMessage>
         <name>copado__Script_must_contain_a_value</name>
     </validationRules>
 </CustomObjectTranslation>

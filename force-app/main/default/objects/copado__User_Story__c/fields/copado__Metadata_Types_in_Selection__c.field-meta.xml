@@ -3,7 +3,6 @@
     <fullName>copado__Metadata_Types_in_Selection__c</fullName>
     <deprecated>false</deprecated>
     <description>Metadata types of the components listed in the User Story Selections. This value is updated automatically by Copado.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Metadata types of the components listed in the User Story Selections. This value is updated automatically by Copado.</inlineHelpText>
     <label>Metadata Types in Selection</label>
     <required>false</required>

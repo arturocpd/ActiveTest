@@ -3,7 +3,6 @@
     <fullName>copado__Test_Script__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>This lookup relates to the Copado Change Management test scripts that are related to User Stories.</inlineHelpText>
     <label>Test Script</label>
     <referenceTo>copado__Test_Script__c</referenceTo>

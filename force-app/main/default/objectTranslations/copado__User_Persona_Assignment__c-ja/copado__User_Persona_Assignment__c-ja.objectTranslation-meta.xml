@@ -2,12 +2,12 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value></value>
+        <value><!-- User Persona Assignment --></value>
     </caseValues>
     <layouts>
         <layout>User Persona Assignment Layout</layout>
         <sections>
-            <label>カスタムリンク</label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
         <sections>
@@ -15,21 +15,21 @@
             <section>Status Details</section>
         </sections>
     </layouts>
-    <nameFieldLabel></nameFieldLabel>
+    <nameFieldLabel><!-- User Persona Assignment Ref --></nameFieldLabel>
     <validationRules>
-        <errorMessage></errorMessage>
+        <errorMessage><!-- Cannot  specify End and Start time for Permanent permissions. --></errorMessage>
         <name>copado__Permanent_no_Dates</name>
     </validationRules>
     <validationRules>
-        <errorMessage></errorMessage>
+        <errorMessage><!-- Start Time cannot be after the End Time. --></errorMessage>
         <name>copado__Start_End_date_illogicalness</name>
     </validationRules>
     <validationRules>
-        <errorMessage></errorMessage>
+        <errorMessage><!-- Start Time or End Time cannot be in the past. Please add a couple of minutes to related field. --></errorMessage>
         <name>copado__Start_date_issue</name>
     </validationRules>
     <validationRules>
-        <errorMessage></errorMessage>
+        <errorMessage><!-- Specify End and Start time for Temporary permissions. --></errorMessage>
         <name>copado__Temporary_with_Dates</name>
     </validationRules>
 </CustomObjectTranslation>

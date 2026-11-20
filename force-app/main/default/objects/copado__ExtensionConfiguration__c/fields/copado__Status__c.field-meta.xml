@@ -3,7 +3,6 @@
     <fullName>copado__Status__c</fullName>
     <deprecated>false</deprecated>
     <description>Deprecated</description>
-    <externalId>false</externalId>
     <label>Status - Deprecated</label>
     <required>false</required>
     <trackTrending>false</trackTrending>

@@ -2,7 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>copado__Calculate_Based_on__c</fullName>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>If Branch is selected, Branch Management page will work as before, if User Story selected, calculation and result will be based on User Stories.</inlineHelpText>
     <label>Calculate Based on</label>
     <required>false</required>

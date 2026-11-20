@@ -3,7 +3,6 @@
     <fullName>copado__Last_Pull_CBM_Sync__c</fullName>
     <deprecated>false</deprecated>
     <description>Last date and time when the CBM Sync button was clicked to merge and deploy changes to the source environment.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Last date and time when the CBM Sync button was clicked to merge and deploy changes to the source environment.</inlineHelpText>
     <label>Last Pull CBM Sync</label>
     <required>false</required>

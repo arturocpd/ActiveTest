@@ -2,22 +2,22 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Job Template --></value>
     </caseValues>
     <layouts>
         <layout>Job Template Layout</layout>
         <sections>
-            <label>カスタムリンク</label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
     </layouts>
-    <nameFieldLabel></nameFieldLabel>
+    <nameFieldLabel><!-- Job Template Name --></nameFieldLabel>
     <quickActions>
-        <label></label>
+        <label><!-- Clone with Steps --></label>
         <name>copado__Clone_with_Steps</name>
     </quickActions>
     <quickActions>
-        <label></label>
+        <label><!-- New Step --></label>
         <name>copado__New_Step</name>
     </quickActions>
 </CustomObjectTranslation>

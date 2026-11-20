@@ -3,17 +3,20 @@
     <fullName>copado__ExtensionConfiguration__c</fullName>
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>The displayed values are based on the active Extension Configuration records available in your org.</inlineHelpText>
     <label>Tool Configuration</label>
     <lookupFilter>
         <active>true</active>
-        <booleanFilter>1</booleanFilter>
-        <errorMessage>Make sure the selected Extension Configuration is valid and active.</errorMessage>
+        <booleanFilter>1 OR 2</booleanFilter>
         <filterItems>
             <field>copado__ExtensionConfiguration__c.copado__Active__c</field>
             <operation>equals</operation>
             <value>True</value>
+        </filterItems>
+        <filterItems>
+            <field>copado__ExtensionConfiguration__c.copado__Status__c</field>
+            <operation>equals</operation>
+            <value>Active</value>
         </filterItems>
         <isOptional>false</isOptional>
     </lookupFilter>

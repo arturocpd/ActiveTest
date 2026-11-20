@@ -4,7 +4,6 @@
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
     <description>When performing the merge, if a promotion branch exists, it will be re-created from the target branch. Otherwise the existing promotion branch would be used (Default).</description>
-    <externalId>false</externalId>
     <label>Recreate Promotion Branch</label>
     <trackTrending>false</trackTrending>
     <type>Checkbox</type>

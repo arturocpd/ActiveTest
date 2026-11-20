@@ -2,7 +2,7 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Connection Behavior --></value>
     </caseValues>
     <layouts>
         <layout>Connection Behavior Layout</layout>
@@ -11,7 +11,7 @@
             <section>Back-Promotion Details</section>
         </sections>
         <sections>
-            <label>カスタムリンク</label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
         <sections>
@@ -27,9 +27,9 @@
             <section>Usage Information</section>
         </sections>
     </layouts>
-    <nameFieldLabel></nameFieldLabel>
+    <nameFieldLabel><!-- Connection Behavior Name --></nameFieldLabel>
     <validationRules>
-        <errorMessage></errorMessage>
+        <errorMessage><!-- Batch Size fields for Promotion or Back Promotion needs to be between 1 and 2000 --></errorMessage>
         <name>copado__Batch_Size_Valid_Interval</name>
     </validationRules>
 </CustomObjectTranslation>

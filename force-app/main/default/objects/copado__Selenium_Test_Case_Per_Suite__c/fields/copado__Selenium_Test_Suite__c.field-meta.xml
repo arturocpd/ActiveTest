@@ -2,7 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>copado__Selenium_Test_Suite__c</fullName>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <label>Selenium Test Suite</label>
     <referenceTo>copado__Selenium_Test_Suite__c</referenceTo>
     <relationshipLabel>Test Cases</relationshipLabel>

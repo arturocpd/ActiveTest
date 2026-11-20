@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>This field manages override of Connection Behavior on Pipeline Connection basis</description>
-    <externalId>false</externalId>
     <label>Connection Behavior Override</label>
     <referenceTo>copado__Connection_Behavior__c</referenceTo>
     <relationshipLabel>Pipeline Connections</relationshipLabel>

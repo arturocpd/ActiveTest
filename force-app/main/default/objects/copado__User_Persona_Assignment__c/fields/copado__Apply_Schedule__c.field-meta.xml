@@ -3,7 +3,6 @@
     <fullName>copado__Apply_Schedule__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Do not edit manually. This field is used to control the permission scheduler</inlineHelpText>
     <label>Apply Schedule</label>
     <trackHistory>true</trackHistory>

@@ -3,7 +3,6 @@
     <fullName>copado__Test_Level__c</fullName>
     <deprecated>false</deprecated>
     <description>If &apos;Apex Test with Validation&apos; is selected as the type, what test level should be performed. &apos;Run Specified Tests&apos; will run whatever tests are included on the user stories being deployed</description>
-    <externalId>false</externalId>
     <inlineHelpText>If &apos;Apex Test with Validation&apos; is selected as the type, what test level should be performed. &apos;Run Specified Tests&apos; will run whatever tests are included on the user stories being deployed</inlineHelpText>
     <label>Apex Test Level</label>
     <required>false</required>

@@ -3,7 +3,6 @@
     <fullName>copado__Operator__c</fullName>
     <deprecated>false</deprecated>
     <description>Match &apos;All&apos; metadata of this type, or only metadata whose name matches a pattern?</description>
-    <externalId>false</externalId>
     <inlineHelpText>Match &apos;All&apos; metadata of this type, or only metadata whose name matches a pattern?</inlineHelpText>
     <label>Metadata Name</label>
     <required>true</required>

@@ -3,7 +3,6 @@
     <fullName>copado__Artifact_Repository__c</fullName>
     <deleteConstraint>Restrict</deleteConstraint>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>This is Repository where the Artifact can be stored, in the master branch</inlineHelpText>
     <label>Package Repository</label>
     <referenceTo>copado__Git_Repository__c</referenceTo>

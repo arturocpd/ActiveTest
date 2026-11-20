@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>Lookup field to the promotion that triggered the result.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Promotion Parent object that trigger the execution.</inlineHelpText>
     <label>Promotion</label>
     <referenceTo>copado__Promotion__c</referenceTo>

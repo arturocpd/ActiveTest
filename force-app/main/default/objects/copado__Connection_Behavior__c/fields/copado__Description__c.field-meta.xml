@@ -3,7 +3,6 @@
     <fullName>copado__Description__c</fullName>
     <deprecated>false</deprecated>
     <description>A summary of this connection behavior</description>
-    <externalId>false</externalId>
     <inlineHelpText>A summary of this connection behavior</inlineHelpText>
     <label>Description</label>
     <required>false</required>

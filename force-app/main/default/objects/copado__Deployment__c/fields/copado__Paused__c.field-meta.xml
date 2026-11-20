@@ -4,7 +4,6 @@
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
     <description>This field is used to decide if there is a pending manual item on deployment.</description>
-    <externalId>false</externalId>
     <inlineHelpText>This field is auto populated when a manual task is pending on deployment.</inlineHelpText>
     <label>Paused</label>
     <trackHistory>false</trackHistory>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label></label>
+    <label><!-- Status --></label>
     <name>copado__Status__c</name>
     <picklistValues>
         <masterLabel>Cancelled</masterLabel>
-        <translation></translation>
+        <translation><!-- Cancelled --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Locked</masterLabel>
-        <translation></translation>
+        <translation><!-- Locked --></translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Open</masterLabel>
-        <translation></translation>
+        <translation><!-- Open --></translation>
     </picklistValues>
 </CustomFieldTranslation>

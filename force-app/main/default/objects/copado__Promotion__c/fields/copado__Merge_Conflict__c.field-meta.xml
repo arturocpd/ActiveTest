@@ -3,7 +3,6 @@
     <fullName>copado__Merge_Conflict__c</fullName>
     <defaultValue>false</defaultValue>
     <deprecated>false</deprecated>
-    <externalId>false</externalId>
     <inlineHelpText>Indicates that this promotion includes a manual conflict resolution.</inlineHelpText>
     <label>Merge Conflict</label>
     <trackTrending>false</trackTrending>

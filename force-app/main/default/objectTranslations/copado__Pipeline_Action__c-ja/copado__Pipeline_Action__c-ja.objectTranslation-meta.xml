@@ -2,26 +2,26 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value></value>
+        <value><!-- Pipeline Action --></value>
     </caseValues>
     <layouts>
         <layout>Pipeline Action Layout</layout>
         <sections>
-            <label>カスタムリンク</label>
+            <label><!-- Custom Links --></label>
             <section>Custom Links</section>
         </sections>
         <sections>
-            <label>環境の上書き</label>
+            <label><!-- Environment Override --></label>
             <section>Environment Override</section>
         </sections>
         <sections>
-            <label>パイプライン</label>
+            <label><!-- Pipeline --></label>
             <section>Pipeline</section>
         </sections>
         <sections>
-            <label>設定</label>
+            <label><!-- Settings --></label>
             <section>Settings</section>
         </sections>
     </layouts>
-    <nameFieldLabel></nameFieldLabel>
+    <nameFieldLabel><!-- Pipeline Action Name --></nameFieldLabel>
 </CustomObjectTranslation>

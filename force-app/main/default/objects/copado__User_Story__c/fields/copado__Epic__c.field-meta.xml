@@ -4,7 +4,6 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <deprecated>false</deprecated>
     <description>Epic containing the User Story.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Epic containing the User Story.</inlineHelpText>
     <label>Epic</label>
     <referenceTo>copado__Epic__c</referenceTo>

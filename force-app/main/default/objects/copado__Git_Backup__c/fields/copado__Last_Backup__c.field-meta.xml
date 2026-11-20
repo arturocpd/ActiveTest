@@ -3,7 +3,6 @@
     <fullName>copado__Last_Backup__c</fullName>
     <deprecated>false</deprecated>
     <description>Date of the last Snapshot committed into the Branch.</description>
-    <externalId>false</externalId>
     <inlineHelpText>Date of the last Snapshot committed into the Branch.</inlineHelpText>
     <label>Last Snapshot</label>
     <required>false</required>
